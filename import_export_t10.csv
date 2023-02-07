@@ -1,0 +1,801 @@
+Year;Country;Code;Item;ExportWeight_InTons;ExportValue_EUROs;ExportValue_inUSD;ImportWeight_InTons;ImportValue_inEUROs;ImportValue_inUSD
+2018;Belgien (ab 1999);WA27;Mineralische Brennstoffe usw.;3132455,3;1229892;1456073;8543471,2;4526719;5346907
+2018;Belgien (ab 1999);WA28;Anorganische chemische Erzeugnisse;1545331,2;431869;510397;1387616,7;513330;605953
+2018;Belgien (ab 1999);WA29;Organische chemische Erzeugnisse;1910362,9;2153530;2555244;2956011,4;8276110;9792420
+2018;Belgien (ab 1999);WA30;Pharmazeutische Erzeugnisse;19757,2;2514640;2968963;24980,7;2135333;2518162
+2018;Belgien (ab 1999);WA31;Düngemittel;638300,2;183896;218012;598110,9;151763;180433
+2018;Belgien (ab 1999);WA33;Etherische Öle, Riech-, Schönheitsmittel;50718,5;262490;310460;32888,4;125731;148713
+2018;Belgien (ab 1999);WA36;Sprengstoffe, pyrotechnische Artikel usw.;1438,1;4125;4857;391,6;6938;8219
+2018;Belgien (ab 1999);WA37;Photochemische Erzeugnisse;38596,8;205430;242665;8358,3;58600;69233
+2018;Belgien (ab 1999);WA38;Verschiedene Erzeugnisse der Chemischen Industrie;642301,7;1089266;1289074;916059,5;1185496;1402507
+2018;Belgien (ab 1999);WA72;Eisen und Stahl;2808395,2;1861332;2200737;4031464,8;3370311;3985650
+2018;Belgien (ab 1999);WA73;Waren aus Eisen oder Stahl;344905,5;929227;1097704;277288,0;541941;638908
+2018;Belgien (ab 1999);WA83;Verschiedene Waren aus unedlen Metallen;29738,5;263490;311428;2945,2;37209;43945
+2018;Belgien (ab 1999);WA84;Maschinen, Apparate, mechanische Geräte;346977,9;5636783;6656388;132794,9;1627389;1921869
+2018;Belgien (ab 1999);WA85;Elektrotechnische Erzeugnisse;120607,6;2763413;3265951;53560,4;971905;1148185
+2018;Belgien (ab 1999);WA86;Schienenfahrzeuge;4799,8;37415;44581;1788,1;14598;17203
+2018;Belgien (ab 1999);WA87;Kraftfahrzeuge, Landfahrzeuge;667910,0;7472546;8857582;394784,7;3695483;4358763
+2018;Belgien (ab 1999);WA88;Luftfahrzeuge, Raumfahrzeuge;184,2;53205;62761;2441,7;342952;404667
+2018;Belgien (ab 1999);WA89;Wasserfahrzeuge;17277,7;14761;17006;869,8;14213;16827
+2018;Belgien (ab 1999);WA90;Optische, photografische usw. Erzeugnisse;13814,4;1409621;1664449;7300,9;438597;518869
+2018;Belgien (ab 1999);WA98;Vollständige Fabrikationsanlagen;0;0;0;0;0;0
+2018;Frankreich;WA27;Mineralische Brennstoffe usw.;1878701,8;1017965;1204584;1281910,5;1239557;1462139
+2018;Frankreich;WA28;Anorganische chemische Erzeugnisse;1292723,0;873083;1033060;1035451,4;835129;988007
+2018;Frankreich;WA29;Organische chemische Erzeugnisse;1137048,1;2164020;2560067;563942,4;1027621;1213883
+2018;Frankreich;WA30;Pharmazeutische Erzeugnisse;70383,5;4015183;4746169;76471,5;2770988;3268586
+2018;Frankreich;WA31;Düngemittel;778070,9;172674;204243;131679,6;29392;34893
+2018;Frankreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;89007,5;771008;911732;140441,1;1973779;2329181
+2018;Frankreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4424,0;25864;30548;106,0;4022;4771
+2018;Frankreich;WA37;Photochemische Erzeugnisse;6615,3;106478;125833;5617,4;160224;189391
+2018;Frankreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;733610,3;1897059;2246691;525904,3;1460276;1734570
+2018;Frankreich;WA72;Eisen und Stahl;3728067,7;2496064;2953468;4195912,6;3549961;4199407
+2018;Frankreich;WA73;Waren aus Eisen oder Stahl;1034723,4;2508230;2967532;294588,0;972838;1150796
+2018;Frankreich;WA83;Verschiedene Waren aus unedlen Metallen;58923,6;630170;745856;38077,9;226779;268539
+2018;Frankreich;WA84;Maschinen, Apparate, mechanische Geräte;878854,7;15925120;18811820;559443,7;7257334;8567204
+2018;Frankreich;WA85;Elektrotechnische Erzeugnisse;342359,4;8585159;10138855;251931,0;4847271;5717501
+2018;Frankreich;WA86;Schienenfahrzeuge;15270,5;151066;179737;8481,7;64636;76367
+2018;Frankreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1346739,8;16221857;19179822;1012388,9;10001670;11824750
+2018;Frankreich;WA88;Luftfahrzeuge, Raumfahrzeuge;21878,0;9928123;11775529;12835,8;5863713;6939550
+2018;Frankreich;WA89;Wasserfahrzeuge;14006,5;48197;56856;1807,7;46825;55673
+2018;Frankreich;WA90;Optische, photografische usw. Erzeugnisse;40724,7;4185745;4942308;20265,9;1803507;2128595
+2018;Frankreich;WA98;Vollständige Fabrikationsanlagen;4583,5;7861;9417;0;0;0
+2018;Italien;WA27;Mineralische Brennstoffe usw.;338117,4;169139;199564;423384,0;246016;290486
+2018;Italien;WA28;Anorganische chemische Erzeugnisse;501772,5;365363;432044;192512,3;569387;673620
+2018;Italien;WA29;Organische chemische Erzeugnisse;829961,8;1628987;1929794;213857,3;3626548;4277593
+2018;Italien;WA30;Pharmazeutische Erzeugnisse;40071,7;4633410;5476084;32785,0;2825034;3334664
+2018;Italien;WA31;Düngemittel;200793,4;74771;88692;13958,4;10775;12887
+2018;Italien;WA33;Etherische Öle, Riech-, Schönheitsmittel;55274,2;475561;562551;73035,4;643958;760567
+2018;Italien;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4854,2;19369;22834;40,1;326;387
+2018;Italien;WA37;Photochemische Erzeugnisse;7914,2;88286;104139;456,7;8596;10158
+2018;Italien;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;407652,4;1286071;1521769;277014,3;651953;771288
+2018;Italien;WA72;Eisen und Stahl;4018638,0;2346239;2775619;3498600,2;3063393;3624444
+2018;Italien;WA73;Waren aus Eisen oder Stahl;382235,0;1316712;1552454;1334367,2;2741990;3241570
+2018;Italien;WA83;Verschiedene Waren aus unedlen Metallen;35312,7;352995;417665;60348,6;426523;504568
+2018;Italien;WA84;Maschinen, Apparate, mechanische Geräte;610848,2;10609054;12532522;887844,1;8723286;10305381
+2018;Italien;WA85;Elektrotechnische Erzeugnisse;208031,6;6831878;8067615;385268,4;3786829;4474888
+2018;Italien;WA86;Schienenfahrzeuge;11981,8;134419;157841;11049,7;89032;105022
+2018;Italien;WA87;Kraftfahrzeuge, Landfahrzeuge;882554,5;11490924;13621798;903075,0;7064001;8350875
+2018;Italien;WA88;Luftfahrzeuge, Raumfahrzeuge;1061,0;277573;324004;452,4;108008;127203
+2018;Italien;WA89;Wasserfahrzeuge;69823,3;961663;1106578;17807,4;36159;42437
+2018;Italien;WA90;Optische, photografische usw. Erzeugnisse;26131,1;3259568;3852779;21117,6;1027561;1215060
+2018;Italien;WA98;Vollständige Fabrikationsanlagen;253,7;3403;4178;510,0;499;568
+2018;Niederlande;WA27;Mineralische Brennstoffe usw.;32671239,6;10217828;12077060;69423060,2;25119828;29670969
+2018;Niederlande;WA28;Anorganische chemische Erzeugnisse;2855317,5;532565;628885;1593274,6;533493;629947
+2018;Niederlande;WA29;Organische chemische Erzeugnisse;2367549,0;2418034;2864418;3101790,6;3471515;4106218
+2018;Niederlande;WA30;Pharmazeutische Erzeugnisse;37011,6;9452482;11183163;12244,9;9179594;10848148
+2018;Niederlande;WA31;Düngemittel;343881,1;73077;86335;1028720,4;199656;236218
+2018;Niederlande;WA33;Etherische Öle, Riech-, Schönheitsmittel;65593,0;554218;653976;49117,1;400147;471233
+2018;Niederlande;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4892,3;22554;26162;1626,5;3042;3604
+2018;Niederlande;WA37;Photochemische Erzeugnisse;5397,9;55958;65911;23466,6;155926;183665
+2018;Niederlande;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1355912,7;1711860;2021315;1692023,5;1696018;2004748
+2018;Niederlande;WA72;Eisen und Stahl;3433609,1;2143455;2537534;3232991,8;2225400;2632862
+2018;Niederlande;WA73;Waren aus Eisen oder Stahl;725090,0;1907966;2253853;765008,4;1389014;1640710
+2018;Niederlande;WA83;Verschiedene Waren aus unedlen Metallen;43034,9;372756;440757;23826,5;131772;155524
+2018;Niederlande;WA84;Maschinen, Apparate, mechanische Geräte;749771,5;10683611;12631276;340408,2;5976437;7051019
+2018;Niederlande;WA85;Elektrotechnische Erzeugnisse;245052,9;7795257;9208553;118873,4;4612815;5436067
+2018;Niederlande;WA86;Schienenfahrzeuge;17269,1;51874;61364;9818,7;33667;39696
+2018;Niederlande;WA87;Kraftfahrzeuge, Landfahrzeuge;719239,1;7360729;8695935;436059,9;4207437;4965087
+2018;Niederlande;WA88;Luftfahrzeuge, Raumfahrzeuge;865,1;690577;811155;885,8;152862;180766
+2018;Niederlande;WA89;Wasserfahrzeuge;180163,8;294409;357819;60044,4;130034;154706
+2018;Niederlande;WA90;Optische, photografische usw. Erzeugnisse;22776,8;4295225;5079079;10859,9;1566364;1849345
+2018;Niederlande;WA98;Vollständige Fabrikationsanlagen;874,7;47300;55237;671,3;7310;8515
+2018;Österreich;WA27;Mineralische Brennstoffe usw.;8206823,1;4486030;5285598;4511347,6;1719864;2016744
+2018;Österreich;WA28;Anorganische chemische Erzeugnisse;994641,3;380369;449120;368728,0;263256;311365
+2018;Österreich;WA29;Organische chemische Erzeugnisse;240472,2;449525;532400;190352,4;222288;263054
+2018;Österreich;WA30;Pharmazeutische Erzeugnisse;36927,9;2073805;2450836;17170,2;1349386;1592829
+2018;Österreich;WA31;Düngemittel;223185,9;73261;86919;382707,7;80997;95935
+2018;Österreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;56957,0;634370;748197;10983,0;169278;199699
+2018;Österreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;2866,1;8686;10221;4836,1;9793;11564
+2018;Österreich;WA37;Photochemische Erzeugnisse;1760,1;26448;31211;75,9;1136;1349
+2018;Österreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;669236,2;810711;957955;445008,5;365009;431969
+2018;Österreich;WA72;Eisen und Stahl;1515580,0;1405114;1662206;2592542,5;2690588;3183137
+2018;Österreich;WA73;Waren aus Eisen oder Stahl;675322,3;2078111;2457077;702707,9;1359707;1606575
+2018;Österreich;WA83;Verschiedene Waren aus unedlen Metallen;45307,0;467447;552745;80253,0;454080;536935
+2018;Österreich;WA84;Maschinen, Apparate, mechanische Geräte;625027,5;10298830;12170357;581385,4;7646461;9043140
+2018;Österreich;WA85;Elektrotechnische Erzeugnisse;197921,6;6349178;7495154;189656,6;3821271;4516296
+2018;Österreich;WA86;Schienenfahrzeuge;27209,5;413402;486746;32965,6;478010;565950
+2018;Österreich;WA87;Kraftfahrzeuge, Landfahrzeuge;670908,2;7245511;8580331;613737,6;5060837;5985890
+2018;Österreich;WA88;Luftfahrzeuge, Raumfahrzeuge;829,7;260320;307218;2263,1;230286;271775
+2018;Österreich;WA89;Wasserfahrzeuge;1447,7;10560;12464;1928,1;23553;28602
+2018;Österreich;WA90;Optische, photografische usw. Erzeugnisse;17975,9;1901531;2244500;8423,0;910934;1073727
+2018;Österreich;WA98;Vollständige Fabrikationsanlagen;786,5;4201;5127;439,2;5461;6457
+2018;Polen;WA27;Mineralische Brennstoffe usw.;2373585,0;1639058;1932078;2795156,7;885957;1045309
+2018;Polen;WA28;Anorganische chemische Erzeugnisse;501198,8;417347;489671;519318,8;197105;232593
+2018;Polen;WA29;Organische chemische Erzeugnisse;604872,4;789303;933833;637686,5;513087;606868
+2018;Polen;WA30;Pharmazeutische Erzeugnisse;44092,2;1318353;1559804;20261,5;484173;570910
+2018;Polen;WA31;Düngemittel;766812,3;134081;158152;625509,4;134112;158297
+2018;Polen;WA33;Etherische Öle, Riech-, Schönheitsmittel;92743,5;652230;769310;79209,1;373867;441445
+2018;Polen;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1609,5;7017;8226;10874,9;12913;15238
+2018;Polen;WA37;Photochemische Erzeugnisse;6118,7;51388;60751;85,3;4529;5344
+2018;Polen;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;619101,5;1338403;1585810;205939,8;368939;434170
+2018;Polen;WA72;Eisen und Stahl;2876763,5;2178769;2575634;1945766,2;1147872;1356191
+2018;Polen;WA73;Waren aus Eisen oder Stahl;547052,7;1695206;2002257;1222949,1;2286972;2700364
+2018;Polen;WA83;Verschiedene Waren aus unedlen Metallen;113569,2;608787;719688;71154,5;411367;486945
+2018;Polen;WA84;Maschinen, Apparate, mechanische Geräte;677620,3;10488937;12373888;846112,8;7074253;8353732
+2018;Polen;WA85;Elektrotechnische Erzeugnisse;249614,0;6296496;7426560;377394,6;5987016;7066167
+2018;Polen;WA86;Schienenfahrzeuge;30310,1;184302;217192;99694,8;419040;493068
+2018;Polen;WA87;Kraftfahrzeuge, Landfahrzeuge;1134054,6;7295826;8634549;1091871,8;7490651;8840378
+2018;Polen;WA88;Luftfahrzeuge, Raumfahrzeuge;566,6;93207;109386;221,9;14150;16425
+2018;Polen;WA89;Wasserfahrzeuge;1377,3;22011;25881;4939,8;46046;54413
+2018;Polen;WA90;Optische, photografische usw. Erzeugnisse;29315,3;1836042;2164671;22279,2;869864;1027858
+2018;Polen;WA98;Vollständige Fabrikationsanlagen;83,3;2887;3420;0;0;0
+2018;Vereinigtes Königreich;WA27;Mineralische Brennstoffe usw.;1358910,5;550186;653759;6507052,6;2462239;2909918
+2018;Vereinigtes Königreich;WA28;Anorganische chemische Erzeugnisse;834065,5;437468;517300;361882,4;292636;345765
+2018;Vereinigtes Königreich;WA29;Organische chemische Erzeugnisse;479594,1;1083543;1283789;966300,2;1259132;1481299
+2018;Vereinigtes Königreich;WA30;Pharmazeutische Erzeugnisse;34950,5;4137334;4892380;11877,3;1907156;2253393
+2018;Vereinigtes Königreich;WA31;Düngemittel;676100,5;129931;154017;27928,2;13156;15646
+2018;Vereinigtes Königreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;104698,8;741173;874193;48292,7;435359;515886
+2018;Vereinigtes Königreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;610,3;15151;17787;4044,5;7740;9122
+2018;Vereinigtes Königreich;WA37;Photochemische Erzeugnisse;6765,6;81202;95844;404,9;12281;14471
+2018;Vereinigtes Königreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;339035,4;945095;1116879;131014,3;1074004;1269262
+2018;Vereinigtes Königreich;WA72;Eisen und Stahl;792261,5;709647;838171;554051,2;525929;621788
+2018;Vereinigtes Königreich;WA73;Waren aus Eisen oder Stahl;339685,6;1218865;1440999;134143,2;412754;487915
+2018;Vereinigtes Königreich;WA83;Verschiedene Waren aus unedlen Metallen;41551,4;444314;525287;8619,6;82954;98100
+2018;Vereinigtes Königreich;WA84;Maschinen, Apparate, mechanische Geräte;603387,2;13230991;15638634;270925,2;4728179;5590964
+2018;Vereinigtes Königreich;WA85;Elektrotechnische Erzeugnisse;181420,0;6186940;7303100;73395,3;3438876;4055839
+2018;Vereinigtes Königreich;WA86;Schienenfahrzeuge;30007,1;935507;1116657;5517,2;33971;40265
+2018;Vereinigtes Königreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1749488,6;22541025;26755055;417356,2;5026243;5948234
+2018;Vereinigtes Königreich;WA88;Luftfahrzeuge, Raumfahrzeuge;7334,5;2383217;2802765;6956,4;2678285;3168673
+2018;Vereinigtes Königreich;WA89;Wasserfahrzeuge;257199,0;353023;415343;24697,7;39294;46978
+2018;Vereinigtes Königreich;WA90;Optische, photografische usw. Erzeugnisse;28138,4;3224224;3809329;15072,7;1528310;1804257
+2018;Vereinigtes Königreich;WA98;Vollständige Fabrikationsanlagen;822,9;24091;28931;4,0;409;466
+2018;Schweiz;WA27;Mineralische Brennstoffe usw.;4418500,2;3140982;3712853;262074,4;331414;389442
+2018;Schweiz;WA28;Anorganische chemische Erzeugnisse;265940,8;203207;240075;121142,7;54692;64436
+2018;Schweiz;WA29;Organische chemische Erzeugnisse;440326,2;1161635;1373166;112481,7;4276109;5053799
+2018;Schweiz;WA30;Pharmazeutische Erzeugnisse;29336,1;7040565;8322863;30963,9;8207200;9696329
+2018;Schweiz;WA31;Düngemittel;138234,3;41108;48540;9483,9;4698;5574
+2018;Schweiz;WA33;Etherische Öle, Riech-, Schönheitsmittel;30585,8;430818;509054;32992,1;813737;961321
+2018;Schweiz;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1798,3;19218;22780;1137,1;16091;18956
+2018;Schweiz;WA37;Photochemische Erzeugnisse;1785,6;23472;27660;52,4;2787;3304
+2018;Schweiz;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1172054,7;701540;829011;125207,4;395710;467719
+2018;Schweiz;WA72;Eisen und Stahl;1221048,1;980309;1159992;684790,3;501148;592830
+2018;Schweiz;WA73;Waren aus Eisen oder Stahl;346628,0;1368300;1616916;202411,8;955956;1130571
+2018;Schweiz;WA83;Verschiedene Waren aus unedlen Metallen;17872,0;246732;291871;7241,4;112176;132521
+2018;Schweiz;WA84;Maschinen, Apparate, mechanische Geräte;309953,4;6420171;7578375;205152,4;6052197;7147166
+2018;Schweiz;WA85;Elektrotechnische Erzeugnisse;99919,7;3779999;4463725;102068,4;3265355;3858920
+2018;Schweiz;WA86;Schienenfahrzeuge;40744,8;435006;515446;26846,3;317311;371756
+2018;Schweiz;WA87;Kraftfahrzeuge, Landfahrzeuge;279687,7;4856216;5740016;152330,2;801118;947956
+2018;Schweiz;WA88;Luftfahrzeuge, Raumfahrzeuge;505,5;301372;355331;458,5;123640;146893
+2018;Schweiz;WA89;Wasserfahrzeuge;766,1;26188;30933;2522,3;16395;19418
+2018;Schweiz;WA90;Optische, photografische usw. Erzeugnisse;14693,0;2285009;2698120;17482,9;3395339;4011208
+2018;Schweiz;WA98;Vollständige Fabrikationsanlagen;12,6;385;438;0;0;0
+2018;Vereinigte Staaten von Amerika;WA27;Mineralische Brennstoffe usw.;65159,8;115194;136370;15350053,0;3506413;4128819
+2018;Vereinigte Staaten von Amerika;WA28;Anorganische chemische Erzeugnisse;587701,1;803227;950194;113829,8;468249;554678
+2018;Vereinigte Staaten von Amerika;WA29;Organische chemische Erzeugnisse;484772,5;2338767;2762481;684552,5;1595968;1885688
+2018;Vereinigte Staaten von Amerika;WA30;Pharmazeutische Erzeugnisse;51573,7;13367086;15825061;14890,4;6498834;7673539
+2018;Vereinigte Staaten von Amerika;WA31;Düngemittel;227491,3;64030;75813;1336,4;1630;1913
+2018;Vereinigte Staaten von Amerika;WA33;Etherische Öle, Riech-, Schönheitsmittel;23236,2;403361;476027;25493,3;423735;501159
+2018;Vereinigte Staaten von Amerika;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1427,8;89476;105428;406,1;15556;18383
+2018;Vereinigte Staaten von Amerika;WA37;Photochemische Erzeugnisse;3029,7;147976;174979;4434,6;117200;138372
+2018;Vereinigte Staaten von Amerika;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;404470,3;1621973;1913200;135174,4;1857649;2193122
+2018;Vereinigte Staaten von Amerika;WA72;Eisen und Stahl;933513,5;1031116;1217406;150028,5;218255;258148
+2018;Vereinigte Staaten von Amerika;WA73;Waren aus Eisen oder Stahl;516386,3;1865036;2199872;43647,0;628892;742890
+2018;Vereinigte Staaten von Amerika;WA83;Verschiedene Waren aus unedlen Metallen;33827,2;435711;514861;3450,8;97440;115042
+2018;Vereinigte Staaten von Amerika;WA84;Maschinen, Apparate, mechanische Geräte;997891,3;24324574;28718692;189552,2;13879483;16371848
+2018;Vereinigte Staaten von Amerika;WA85;Elektrotechnische Erzeugnisse;190333,8;9937772;11728825;68627,1;6868331;8113174
+2018;Vereinigte Staaten von Amerika;WA86;Schienenfahrzeuge;4826,9;72262;85133;3136,7;12993;15359
+2018;Vereinigte Staaten von Amerika;WA87;Kraftfahrzeuge, Landfahrzeuge;1466001,2;25552816;30141804;494324,6;5457391;6475527
+2018;Vereinigte Staaten von Amerika;WA88;Luftfahrzeuge, Raumfahrzeuge;3567,9;2702780;3214262;5071,6;1798917;2133380
+2018;Vereinigte Staaten von Amerika;WA89;Wasserfahrzeuge;67752,6;835188;1028389;1272,4;85499;100987
+2018;Vereinigte Staaten von Amerika;WA90;Optische, photografische usw. Erzeugnisse;45570,4;9430159;11118290;33534,7;7765837;9161633
+2018;Vereinigte Staaten von Amerika;WA98;Vollständige Fabrikationsanlagen;5850,6;103340;121605;0;0;0
+2018;China;WA27;Mineralische Brennstoffe usw.;107938,5;224259;265225;206987,8;89583;104860
+2018;China;WA28;Anorganische chemische Erzeugnisse;165730,3;729679;863604;287958,0;521415;611676
+2018;China;WA29;Organische chemische Erzeugnisse;270163,0;1383075;1635159;495834,0;2689717;3182606
+2018;China;WA30;Pharmazeutische Erzeugnisse;25572,9;2799256;3291838;28050,9;335236;396359
+2018;China;WA31;Düngemittel;53875,9;25138;29982;792,5;512;612
+2018;China;WA33;Etherische Öle, Riech-, Schönheitsmittel;10975,7;211725;249648;17609,0;192819;227521
+2018;China;WA36;Sprengstoffe, pyrotechnische Artikel usw.;213,5;6366;7575;47714,3;122183;141331
+2018;China;WA37;Photochemische Erzeugnisse;938,8;17791;21017;1668,5;56960;67574
+2018;China;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;183124,5;1063713;1257325;108339,9;333020;393055
+2018;China;WA72;Eisen und Stahl;624982,9;872518;1031050;456311,4;526658;619282
+2018;China;WA73;Waren aus Eisen oder Stahl;226769,3;1580138;1869408;785275,7;2303317;2720570
+2018;China;WA83;Verschiedene Waren aus unedlen Metallen;42330,7;558252;659593;160675,4;880176;1040091
+2018;China;WA84;Maschinen, Apparate, mechanische Geräte;765913,8;20402688;24077561;1600109,0;24317828;28701011
+2018;China;WA85;Elektrotechnische Erzeugnisse;242457,0;14724445;17381246;1110068,7;32177153;37909229
+2018;China;WA86;Schienenfahrzeuge;44306,2;226651;268284;106065,6;117587;138609
+2018;China;WA87;Kraftfahrzeuge, Landfahrzeuge;1284677,3;24000286;28376447;446529,1;2203974;2607492
+2018;China;WA88;Luftfahrzeuge, Raumfahrzeuge;3919,3;4026318;4690871;232,9;75620;89183
+2018;China;WA89;Wasserfahrzeuge;198238,8;85117;102004;489903,0;547089;651779
+2018;China;WA90;Optische, photografische usw. Erzeugnisse;48078,0;7883792;9300061;96330,3;3396271;4007196
+2018;China;WA98;Vollständige Fabrikationsanlagen;13434,5;371219;437372;0;0;0
+2019;Belgien (ab 1999);WA27;Mineralische Brennstoffe usw.;3040312,1;1245984;1395168;8832130,4;4598821;5147285
+2019;Belgien (ab 1999);WA28;Anorganische chemische Erzeugnisse;1388782,9;417206;467294;1277986,8;480578;538076
+2019;Belgien (ab 1999);WA29;Organische chemische Erzeugnisse;2044290,3;2148727;2407020;2752052,2;4444308;5002588
+2019;Belgien (ab 1999);WA30;Pharmazeutische Erzeugnisse;23559,9;3148875;3522177;31966,2;2326368;2602644
+2019;Belgien (ab 1999);WA31;Düngemittel;615604,4;186964;209563;750164,6;191214;214443
+2019;Belgien (ab 1999);WA33;Etherische Öle, Riech-, Schönheitsmittel;32688,8;226959;254056;25510,0;106668;119441
+2019;Belgien (ab 1999);WA36;Sprengstoffe, pyrotechnische Artikel usw.;1572,7;4493;5015;483,0;7464;8360
+2019;Belgien (ab 1999);WA37;Photochemische Erzeugnisse;23268,1;147887;166144;8706,8;64336;72033
+2019;Belgien (ab 1999);WA38;Verschiedene Erzeugnisse der Chemischen Industrie;799323,0;1202821;1347418;952235,3;1189520;1331182
+2019;Belgien (ab 1999);WA72;Eisen und Stahl;2911494,2;1903009;2131442;3836614,7;3069272;3440402
+2019;Belgien (ab 1999);WA73;Waren aus Eisen oder Stahl;319058,5;877069;981987;275302,2;491797;550815
+2019;Belgien (ab 1999);WA83;Verschiedene Waren aus unedlen Metallen;29946,3;262446;293861;2403,4;35957;40224
+2019;Belgien (ab 1999);WA84;Maschinen, Apparate, mechanische Geräte;330728,0;5575334;6242384;146251,4;1789734;2003397
+2019;Belgien (ab 1999);WA85;Elektrotechnische Erzeugnisse;119721,9;3229437;3616561;53250,0;881440;986475
+2019;Belgien (ab 1999);WA86;Schienenfahrzeuge;4931,7;38293;42863;2335,1;14925;16750
+2019;Belgien (ab 1999);WA87;Kraftfahrzeuge, Landfahrzeuge;666038,6;7756655;8683833;418401,8;4143127;4645247
+2019;Belgien (ab 1999);WA88;Luftfahrzeuge, Raumfahrzeuge;546,3;117002;130985;2729,3;396751;444333
+2019;Belgien (ab 1999);WA89;Wasserfahrzeuge;10046,8;13296;14935;635,7;13976;15661
+2019;Belgien (ab 1999);WA90;Optische, photografische usw. Erzeugnisse;13243,6;1486000;1663799;7069,2;411985;461530
+2019;Belgien (ab 1999);WA98;Vollständige Fabrikationsanlagen;0;0;0;0;0;0
+2019;Frankreich;WA27;Mineralische Brennstoffe usw.;2057521,0;1083202;1214692;1706169,9;1518545;1698765
+2019;Frankreich;WA28;Anorganische chemische Erzeugnisse;1281924,9;986414;1104529;1013813,2;862181;966009
+2019;Frankreich;WA29;Organische chemische Erzeugnisse;1078088,7;2076519;2326724;559226,9;1117840;1251925
+2019;Frankreich;WA30;Pharmazeutische Erzeugnisse;68105,6;4211596;4713897;94476,3;3358620;3754828
+2019;Frankreich;WA31;Düngemittel;809956,0;189260;211965;123946,2;28408;31868
+2019;Frankreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;83156,6;786277;880575;139387,4;2029596;2271064
+2019;Frankreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4055,4;17243;19342;77,3;2973;3317
+2019;Frankreich;WA37;Photochemische Erzeugnisse;6399,9;109245;122298;6130,3;163380;182870
+2019;Frankreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;723669,5;1868130;2093628;539946,7;1443474;1620406
+2019;Frankreich;WA72;Eisen und Stahl;3356588,8;2267493;2540975;3577537,8;3075093;3443244
+2019;Frankreich;WA73;Waren aus Eisen oder Stahl;950548,9;2431331;2723084;283586,3;961088;1076115
+2019;Frankreich;WA83;Verschiedene Waren aus unedlen Metallen;58163,3;628708;704211;35527,3;208039;232862
+2019;Frankreich;WA84;Maschinen, Apparate, mechanische Geräte;901273,0;16721686;18723977;536100,5;7976515;8927477
+2019;Frankreich;WA85;Elektrotechnische Erzeugnisse;307643,5;8503334;9519965;245375,1;4692294;5256198
+2019;Frankreich;WA86;Schienenfahrzeuge;17587,6;167215;186225;10716,2;68057;76162
+2019;Frankreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1328660,8;16326020;18274617;1025112,0;10261142;11488288
+2019;Frankreich;WA88;Luftfahrzeuge, Raumfahrzeuge;20416,1;10604705;11875314;15122,7;5728464;6420556
+2019;Frankreich;WA89;Wasserfahrzeuge;1355,7;36627;41157;1992,2;50731;56895
+2019;Frankreich;WA90;Optische, photografische usw. Erzeugnisse;40758,9;4271651;4783746;22273,4;1875851;2099942
+2019;Frankreich;WA98;Vollständige Fabrikationsanlagen;306,2;498;563;0;0;0
+2019;Italien;WA27;Mineralische Brennstoffe usw.;463893,1;215806;241384;407816,4;256394;287158
+2019;Italien;WA28;Anorganische chemische Erzeugnisse;485856,6;372274;416896;155157,6;612831;686566
+2019;Italien;WA29;Organische chemische Erzeugnisse;842151,3;1544244;1730643;203563,9;1278334;1431706
+2019;Italien;WA30;Pharmazeutische Erzeugnisse;39973,3;4120881;4614703;27950,1;2597160;2905093
+2019;Italien;WA31;Düngemittel;179184,3;62207;69682;12446,7;10934;12286
+2019;Italien;WA33;Etherische Öle, Riech-, Schönheitsmittel;53961,1;472518;529129;75179,5;627252;702081
+2019;Italien;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4632,5;18881;21121;22,1;152;170
+2019;Italien;WA37;Photochemische Erzeugnisse;7964,9;88467;99021;438,1;8772;9827
+2019;Italien;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;414295,8;1310382;1468408;265457,2;623172;698001
+2019;Italien;WA72;Eisen und Stahl;3803533,7;2108754;2362981;3178035,9;2753069;3085650
+2019;Italien;WA73;Waren aus Eisen oder Stahl;361828,2;1439925;1612948;1285056,8;2686477;3008806
+2019;Italien;WA83;Verschiedene Waren aus unedlen Metallen;36958,1;360551;403912;57083,5;402853;451129
+2019;Italien;WA84;Maschinen, Apparate, mechanische Geräte;576260,1;10481795;11733209;856616,8;8818806;9875813
+2019;Italien;WA85;Elektrotechnische Erzeugnisse;208213,6;6871005;7693560;359569,4;3616850;4049946
+2019;Italien;WA86;Schienenfahrzeuge;18722,5;218997;246054;12231,0;99376;111212
+2019;Italien;WA87;Kraftfahrzeuge, Landfahrzeuge;827182,7;11127371;12459460;853485,9;6848339;7666907
+2019;Italien;WA88;Luftfahrzeuge, Raumfahrzeuge;974,6;323159;361159;292,8;119885;134272
+2019;Italien;WA89;Wasserfahrzeuge;32153,1;127804;144049;42914,5;25590;28704
+2019;Italien;WA90;Optische, photografische usw. Erzeugnisse;24388,3;3308439;3705207;20540,4;1056074;1182755
+2019;Italien;WA98;Vollständige Fabrikationsanlagen;1,3;12;13;0;0;0
+2019;Niederlande;WA27;Mineralische Brennstoffe usw.;47456011,9;11905836;13327912;86757777,3;27594537;30905648
+2019;Niederlande;WA28;Anorganische chemische Erzeugnisse;3028238,1;574638;643580;1333673,2;501108;560992
+2019;Niederlande;WA29;Organische chemische Erzeugnisse;2437582,1;2368252;2651863;2942234,8;2962666;3318722
+2019;Niederlande;WA30;Pharmazeutische Erzeugnisse;41722,6;8403362;9409249;12620,1;8220170;9199529
+2019;Niederlande;WA31;Düngemittel;321024,3;77426;86860;1034678,0;213597;239573
+2019;Niederlande;WA33;Etherische Öle, Riech-, Schönheitsmittel;70188,4;570837;639049;48265,9;403696;451644
+2019;Niederlande;WA36;Sprengstoffe, pyrotechnische Artikel usw.;3477,8;16838;18763;1371,1;2661;2977
+2019;Niederlande;WA37;Photochemische Erzeugnisse;5553,6;51672;57889;18283,3;137137;153456
+2019;Niederlande;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1526057,7;1909741;2138285;1711848,7;1759489;1968583
+2019;Niederlande;WA72;Eisen und Stahl;3672962,9;2012252;2254306;3068155,7;1994512;2234776
+2019;Niederlande;WA73;Waren aus Eisen oder Stahl;764684,2;1963681;2199403;724217,9;1368096;1532147
+2019;Niederlande;WA83;Verschiedene Waren aus unedlen Metallen;39679,6;372885;417565;23361,0;128168;143474
+2019;Niederlande;WA84;Maschinen, Apparate, mechanische Geräte;673128,1;10441229;11694270;346027,1;6185649;6926002
+2019;Niederlande;WA85;Elektrotechnische Erzeugnisse;247339,1;7496856;8395107;144323,7;4369014;4891637
+2019;Niederlande;WA86;Schienenfahrzeuge;12211,1;83093;92812;11149,3;39598;44252
+2019;Niederlande;WA87;Kraftfahrzeuge, Landfahrzeuge;708734,8;7767465;8693706;422958,1;4313347;4831504
+2019;Niederlande;WA88;Luftfahrzeuge, Raumfahrzeuge;481,6;407970;454343;1407,8;408204;455202
+2019;Niederlande;WA89;Wasserfahrzeuge;122903,8;332309;373905;70537,8;137613;154136
+2019;Niederlande;WA90;Optische, photografische usw. Erzeugnisse;21355,1;4422047;4949165;10050,3;1387852;1553000
+2019;Niederlande;WA98;Vollständige Fabrikationsanlagen;2536,3;11459;13019;469,9;5240;5914
+2019;Österreich;WA27;Mineralische Brennstoffe usw.;15123221,5;5622240;6300517;11608069,6;3028760;3397879
+2019;Österreich;WA28;Anorganische chemische Erzeugnisse;926055,1;360901;404332;363017,1;218296;244630
+2019;Österreich;WA29;Organische chemische Erzeugnisse;247230,8;436418;488910;187848,1;218103;244332
+2019;Österreich;WA30;Pharmazeutische Erzeugnisse;36756,5;2130592;2386155;17386,4;1420020;1589721
+2019;Österreich;WA31;Düngemittel;254364,4;83562;93680;424151,1;92624;103912
+2019;Österreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;55954,3;662708;741510;12091,3;169512;189760
+2019;Österreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;2865,9;9472;10574;4810,3;9218;10315
+2019;Österreich;WA37;Photochemische Erzeugnisse;1796,0;25584;28658;56,9;1191;1332
+2019;Österreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;645300,6;787923;882418;392102,2;370266;414593
+2019;Österreich;WA72;Eisen und Stahl;1436535,3;1232796;1381108;2350903,6;2367137;2652043
+2019;Österreich;WA73;Waren aus Eisen oder Stahl;619671,1;2028272;2271448;654693,6;1324949;1483129
+2019;Österreich;WA83;Verschiedene Waren aus unedlen Metallen;59664,5;500098;559466;97054,5;496608;555415
+2019;Österreich;WA84;Maschinen, Apparate, mechanische Geräte;615930,0;10495913;11751970;541803,8;7510526;8411298
+2019;Österreich;WA85;Elektrotechnische Erzeugnisse;193484,5;6364151;7124518;168866,6;3583567;4011284
+2019;Österreich;WA86;Schienenfahrzeuge;32185,2;385959;432069;31948,5;496177;554176
+2019;Österreich;WA87;Kraftfahrzeuge, Landfahrzeuge;663849,4;6955826;7791037;631323,6;5394692;6040364
+2019;Österreich;WA88;Luftfahrzeuge, Raumfahrzeuge;1477,5;233975;262321;2563,3;317425;355182
+2019;Österreich;WA89;Wasserfahrzeuge;2406,4;29914;33687;216,6;4558;5099
+2019;Österreich;WA90;Optische, photografische usw. Erzeugnisse;18511,6;1976361;2212438;8016,6;922462;1031913
+2019;Österreich;WA98;Vollständige Fabrikationsanlagen;415,4;40465;45333;1,2;197;224
+2019;Polen;WA27;Mineralische Brennstoffe usw.;2038541,3;1620919;1813208;2281434,7;743165;832608
+2019;Polen;WA28;Anorganische chemische Erzeugnisse;451790,6;760754;849631;522176,8;202702;226990
+2019;Polen;WA29;Organische chemische Erzeugnisse;508101,8;666527;746420;707578,8;510980;572488
+2019;Polen;WA30;Pharmazeutische Erzeugnisse;40548,0;1395673;1562340;21334,3;465454;520602
+2019;Polen;WA31;Düngemittel;772500,0;152750;171301;558977,1;134260;150284
+2019;Polen;WA33;Etherische Öle, Riech-, Schönheitsmittel;90142,9;678509;759187;85652,9;470353;526114
+2019;Polen;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1573,9;5226;5830;10909,3;12891;14421
+2019;Polen;WA37;Photochemische Erzeugnisse;5624,0;54071;60475;99,8;6671;7451
+2019;Polen;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;577347,5;1377908;1543007;214682,3;488652;547754
+2019;Polen;WA72;Eisen und Stahl;2796448,9;2067743;2316124;1815490,1;1009206;1130792
+2019;Polen;WA73;Waren aus Eisen oder Stahl;526476,3;1668688;1868336;1057883,9;2156011;2414106
+2019;Polen;WA83;Verschiedene Waren aus unedlen Metallen;112905,7;632107;707927;68745,4;406304;454915
+2019;Polen;WA84;Maschinen, Apparate, mechanische Geräte;688874,2;10924965;12226153;881824,4;7795495;8724661
+2019;Polen;WA85;Elektrotechnische Erzeugnisse;277726,9;6630255;7418531;422419,4;6261308;7006698
+2019;Polen;WA86;Schienenfahrzeuge;32042,5;245752;275032;98151,0;445312;500008
+2019;Polen;WA87;Kraftfahrzeuge, Landfahrzeuge;1072961,2;7277464;8149123;1085840,4;7833075;8772850
+2019;Polen;WA88;Luftfahrzeuge, Raumfahrzeuge;306,0;96375;107793;352,4;22691;25409
+2019;Polen;WA89;Wasserfahrzeuge;1741,4;18882;21159;4482,7;47573;53280
+2019;Polen;WA90;Optische, photografische usw. Erzeugnisse;27577,2;1962802;2196513;21715,9;914839;1023591
+2019;Polen;WA98;Vollständige Fabrikationsanlagen;1985,3;66342;73710;0;0;0
+2019;Vereinigtes Königreich;WA27;Mineralische Brennstoffe usw.;1202381,6;475417;532453;9655398,6;3566746;3987494
+2019;Vereinigtes Königreich;WA28;Anorganische chemische Erzeugnisse;727104,1;594510;665896;277696,4;190902;214037
+2019;Vereinigtes Königreich;WA29;Organische chemische Erzeugnisse;498431,2;1031312;1155502;841477,4;1632174;1826181
+2019;Vereinigtes Königreich;WA30;Pharmazeutische Erzeugnisse;35522,9;3679939;4126285;12790,5;2544848;2846483
+2019;Vereinigtes Königreich;WA31;Düngemittel;500251,8;108114;121263;74778,9;14864;16675
+2019;Vereinigtes Königreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;94937,8;758838;849398;47641,1;403465;451487
+2019;Vereinigtes Königreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;478,4;15961;17878;2456,6;6922;7734
+2019;Vereinigtes Königreich;WA37;Photochemische Erzeugnisse;5939,2;72696;81452;370,3;11232;12562
+2019;Vereinigtes Königreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;390742,1;1019900;1142469;126810,4;1131937;1267786
+2019;Vereinigtes Königreich;WA72;Eisen und Stahl;778218,6;653394;732490;438951,0;435797;488660
+2019;Vereinigtes Königreich;WA73;Waren aus Eisen oder Stahl;328446,8;1235091;1383505;117128,1;409577;458507
+2019;Vereinigtes Königreich;WA83;Verschiedene Waren aus unedlen Metallen;42150,4;438212;490833;8342,3;91472;102386
+2019;Vereinigtes Königreich;WA84;Maschinen, Apparate, mechanische Geräte;576534,7;11972389;13414582;279426,3;4998115;5599995
+2019;Vereinigtes Königreich;WA85;Elektrotechnische Erzeugnisse;153000,4;5926425;6637131;74834,8;3457856;3872444
+2019;Vereinigtes Königreich;WA86;Schienenfahrzeuge;19451,7;401215;450119;2474,5;28161;31538
+2019;Vereinigtes Königreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1606499,9;21801886;24423141;340511,3;4475660;5014388
+2019;Vereinigtes Königreich;WA88;Luftfahrzeuge, Raumfahrzeuge;3715,2;1800556;2015475;6260,4;2018719;2250167
+2019;Vereinigtes Königreich;WA89;Wasserfahrzeuge;122459,7;480430;537491;35500,1;42725;48100
+2019;Vereinigtes Königreich;WA90;Optische, photografische usw. Erzeugnisse;25745,2;3247801;3638340;16036,4;1666014;1864930
+2019;Vereinigtes Königreich;WA98;Vollständige Fabrikationsanlagen;241,1;4632;5195;0;0;0
+2019;Schweiz;WA27;Mineralische Brennstoffe usw.;4168325,4;2987862;3345878;322166,3;460023;514306
+2019;Schweiz;WA28;Anorganische chemische Erzeugnisse;269719,1;264278;295350;120396,0;49338;55323
+2019;Schweiz;WA29;Organische chemische Erzeugnisse;432396,7;1123035;1257869;98157,1;4311228;4828366
+2019;Schweiz;WA30;Pharmazeutische Erzeugnisse;29275,4;7149648;8003756;28875,4;8120281;9094120
+2019;Schweiz;WA31;Düngemittel;161794,5;51834;58042;12385,1;6463;7233
+2019;Schweiz;WA33;Etherische Öle, Riech-, Schönheitsmittel;30391,4;454524;508722;32520,4;773501;866112
+2019;Schweiz;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1688,8;21149;23719;913,7;13464;15078
+2019;Schweiz;WA37;Photochemische Erzeugnisse;1711,4;26576;29757;45,9;2679;3000
+2019;Schweiz;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1105541,5;706847;791896;130674,8;379400;425025
+2019;Schweiz;WA72;Eisen und Stahl;1052779,4;841622;942966;613710,6;415628;465646
+2019;Schweiz;WA73;Waren aus Eisen oder Stahl;354509,4;1385163;1551007;186570,7;906209;1015083
+2019;Schweiz;WA83;Verschiedene Waren aus unedlen Metallen;16707,3;239919;268671;7129,0;123857;138739
+2019;Schweiz;WA84;Maschinen, Apparate, mechanische Geräte;302273,4;6827104;7642327;190180,2;5714819;6398806
+2019;Schweiz;WA85;Elektrotechnische Erzeugnisse;100109,5;3867771;4330141;100403,6;3252493;3642399
+2019;Schweiz;WA86;Schienenfahrzeuge;37601,6;373824;418838;33507,4;683269;764554
+2019;Schweiz;WA87;Kraftfahrzeuge, Landfahrzeuge;272275,4;4929317;5516125;133323,0;743248;832370
+2019;Schweiz;WA88;Luftfahrzeuge, Raumfahrzeuge;717,4;303813;339034;571,8;174195;195178
+2019;Schweiz;WA89;Wasserfahrzeuge;629,0;24096;27060;1557,3;12166;13638
+2019;Schweiz;WA90;Optische, photografische usw. Erzeugnisse;14864,7;2454482;2747429;17703,1;3286617;3680360
+2019;Schweiz;WA98;Vollständige Fabrikationsanlagen;1,6;41;46;0;0;0
+2019;Vereinigte Staaten von Amerika;WA27;Mineralische Brennstoffe usw.;58496,8;125590;140702;14728163,5;3426089;3834031
+2019;Vereinigte Staaten von Amerika;WA28;Anorganische chemische Erzeugnisse;391690,9;865917;969064;137622,4;457354;512286
+2019;Vereinigte Staaten von Amerika;WA29;Organische chemische Erzeugnisse;469794,2;2446715;2741640;827540,3;1716540;1921613
+2019;Vereinigte Staaten von Amerika;WA30;Pharmazeutische Erzeugnisse;35696,4;13798752;15434931;19482,2;8497963;9510185
+2019;Vereinigte Staaten von Amerika;WA31;Düngemittel;165257,5;64101;71939;1630,7;3116;3481
+2019;Vereinigte Staaten von Amerika;WA33;Etherische Öle, Riech-, Schönheitsmittel;21486,0;389804;436568;29485,0;478263;535143
+2019;Vereinigte Staaten von Amerika;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1265,2;101637;113810;503,2;12644;14173
+2019;Vereinigte Staaten von Amerika;WA37;Photochemische Erzeugnisse;9096,0;173053;193794;4445,6;114110;127801
+2019;Vereinigte Staaten von Amerika;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;385435,3;1725288;1932352;132439,0;1922478;2152798
+2019;Vereinigte Staaten von Amerika;WA72;Eisen und Stahl;537186,8;696379;781536;114408,1;189763;212774
+2019;Vereinigte Staaten von Amerika;WA73;Waren aus Eisen oder Stahl;455904,1;1870605;2095035;35883,3;652114;730336
+2019;Vereinigte Staaten von Amerika;WA83;Verschiedene Waren aus unedlen Metallen;32757,5;439046;491654;2847,7;97304;108941
+2019;Vereinigte Staaten von Amerika;WA84;Maschinen, Apparate, mechanische Geräte;1036251,7;25847608;28937705;173076,2;14774272;16542688
+2019;Vereinigte Staaten von Amerika;WA85;Elektrotechnische Erzeugnisse;203706,1;10665202;11939571;55623,1;7357562;8235253
+2019;Vereinigte Staaten von Amerika;WA86;Schienenfahrzeuge;5038,1;72925;81613;3584,1;16856;18849
+2019;Vereinigte Staaten von Amerika;WA87;Kraftfahrzeuge, Landfahrzeuge;1394717,4;25328696;28361789;521049,1;6750598;7544810
+2019;Vereinigte Staaten von Amerika;WA88;Luftfahrzeuge, Raumfahrzeuge;3458,3;2678048;2991348;6599,4;3201500;3578784
+2019;Vereinigte Staaten von Amerika;WA89;Wasserfahrzeuge;144183,1;1987275;2222527;931,2;96157;107591
+2019;Vereinigte Staaten von Amerika;WA90;Optische, photografische usw. Erzeugnisse;45370,4;10334195;11566141;31659,8;8246860;9229891
+2019;Vereinigte Staaten von Amerika;WA98;Vollständige Fabrikationsanlagen;3206,6;40052;44738;0;0;0
+2019;China;WA27;Mineralische Brennstoffe usw.;99092,2;194638;217848;117609,6;56320;63306
+2019;China;WA28;Anorganische chemische Erzeugnisse;162976,4;680823;761719;236081,9;409180;458769
+2019;China;WA29;Organische chemische Erzeugnisse;252205,9;1410708;1581111;517673,6;2766810;3100181
+2019;China;WA30;Pharmazeutische Erzeugnisse;25539,9;3731025;4175561;28563,4;329210;368464
+2019;China;WA31;Düngemittel;62466,1;30017;33604;773,7;619;693
+2019;China;WA33;Etherische Öle, Riech-, Schönheitsmittel;10133,0;209111;233911;16359,2;174558;195413
+2019;China;WA36;Sprengstoffe, pyrotechnische Artikel usw.;92,6;4936;5525;42500,5;110628;123259
+2019;China;WA37;Photochemische Erzeugnisse;876,6;19098;21370;1871,8;52139;58337
+2019;China;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;155055,0;1018939;1141125;91160,4;342865;383779
+2019;China;WA72;Eisen und Stahl;487501,9;700456;784316;391123,9;444132;498093
+2019;China;WA73;Waren aus Eisen oder Stahl;200414,3;1513091;1693293;834600,0;2559249;2868541
+2019;China;WA83;Verschiedene Waren aus unedlen Metallen;40686,5;544858;609552;165687,8;952508;1067001
+2019;China;WA84;Maschinen, Apparate, mechanische Geräte;697308,2;20298612;22721785;1651641,7;24564442;27505359
+2019;China;WA85;Elektrotechnische Erzeugnisse;205961,3;15401460;17234813;1307019,7;34020992;38056312
+2019;China;WA86;Schienenfahrzeuge;40060,0;210606;235813;122474,1;134956;151172
+2019;China;WA87;Kraftfahrzeuge, Landfahrzeuge;1182818,9;24180241;27075200;460028,8;2358055;2640781
+2019;China;WA88;Luftfahrzeuge, Raumfahrzeuge;3997,2;4402251;4934994;267,3;93336;104446
+2019;China;WA89;Wasserfahrzeuge;191131,6;185908;208222;165139,3;380046;422953
+2019;China;WA90;Optische, photografische usw. Erzeugnisse;45584,8;8209964;9184639;99967,2;3712130;4155327
+2019;China;WA98;Vollständige Fabrikationsanlagen;17078,8;427372;480107;0;0;0
+2020;Belgien (ab 1999);WA27;Mineralische Brennstoffe usw.;2963326,7;973356;1112857;7797384,5;3195847;3637360
+2020;Belgien (ab 1999);WA28;Anorganische chemische Erzeugnisse;1251559,1;386637;440957;1292308,2;483036;552327
+2020;Belgien (ab 1999);WA29;Organische chemische Erzeugnisse;2170094,0;1916049;2191109;2661554,2;2178684;2482355
+2020;Belgien (ab 1999);WA30;Pharmazeutische Erzeugnisse;31928,2;3876080;4430707;39293,4;2780796;3171565
+2020;Belgien (ab 1999);WA31;Düngemittel;669339,7;185671;211579;766274,0;171633;195253
+2020;Belgien (ab 1999);WA33;Etherische Öle, Riech-, Schönheitsmittel;27552,8;201717;230152;42409,4;106435;121673
+2020;Belgien (ab 1999);WA36;Sprengstoffe, pyrotechnische Artikel usw.;1244,4;3889;4483;494,0;7162;8152
+2020;Belgien (ab 1999);WA37;Photochemische Erzeugnisse;2914,5;49785;56992;6487,1;61106;69788
+2020;Belgien (ab 1999);WA38;Verschiedene Erzeugnisse der Chemischen Industrie;831355,0;1258528;1435501;924738,6;1250511;1424709
+2020;Belgien (ab 1999);WA72;Eisen und Stahl;2673118,0;1571719;1794791;3152716,8;2358515;2690589
+2020;Belgien (ab 1999);WA73;Waren aus Eisen oder Stahl;308978,5;814078;928626;267025,5;456166;520117
+2020;Belgien (ab 1999);WA83;Verschiedene Waren aus unedlen Metallen;28073,3;240472;274646;2174,2;34994;40011
+2020;Belgien (ab 1999);WA84;Maschinen, Apparate, mechanische Geräte;307872,1;5137956;5873551;143276,9;1753780;1999069
+2020;Belgien (ab 1999);WA85;Elektrotechnische Erzeugnisse;111195,1;2689628;3074684;47482,2;796130;909857
+2020;Belgien (ab 1999);WA86;Schienenfahrzeuge;3926,6;34950;39852;2341,5;12940;14795
+2020;Belgien (ab 1999);WA87;Kraftfahrzeuge, Landfahrzeuge;563621,8;6885650;7909573;345752,1;3509728;4028868
+2020;Belgien (ab 1999);WA88;Luftfahrzeuge, Raumfahrzeuge;289,0;41916;47669;1193,4;192358;215888
+2020;Belgien (ab 1999);WA89;Wasserfahrzeuge;59,1;2722;3156;366,0;11255;12748
+2020;Belgien (ab 1999);WA90;Optische, photografische usw. Erzeugnisse;12425,9;1296414;1481433;6334,2;381658;436777
+2020;Belgien (ab 1999);WA98;Vollständige Fabrikationsanlagen;0;0;0;0,0;0;0
+2020;Frankreich;WA27;Mineralische Brennstoffe usw.;2906925,5;1102476;1258069;1243693,7;1067002;1205477
+2020;Frankreich;WA28;Anorganische chemische Erzeugnisse;1114370,4;849096;971796;941297,6;709752;810752
+2020;Frankreich;WA29;Organische chemische Erzeugnisse;1055147,4;1867330;2130064;552381,9;995791;1136115
+2020;Frankreich;WA30;Pharmazeutische Erzeugnisse;73782,5;4432928;5065867;93381,9;3367327;3843291
+2020;Frankreich;WA31;Düngemittel;737104,6;154201;175415;136595,1;28071;31925
+2020;Frankreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;73205,9;674639;769754;114880,7;1547672;1772782
+2020;Frankreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4207,4;17792;20664;153,4;3056;3495
+2020;Frankreich;WA37;Photochemische Erzeugnisse;5577,1;98061;112052;4061,3;122565;140210
+2020;Frankreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;686149,5;1829603;2086220;598659,9;1300536;1477728
+2020;Frankreich;WA72;Eisen und Stahl;2967946,9;1862809;2125782;2848940,7;2328033;2654600
+2020;Frankreich;WA73;Waren aus Eisen oder Stahl;786698,5;2125545;2428765;253416,3;825877;944386
+2020;Frankreich;WA83;Verschiedene Waren aus unedlen Metallen;55876,3;549449;627809;30833,0;178564;203415
+2020;Frankreich;WA84;Maschinen, Apparate, mechanische Geräte;763773,3;14719324;16823090;463652,9;6371986;7256731
+2020;Frankreich;WA85;Elektrotechnische Erzeugnisse;279682,4;7597119;8698900;220394,9;4022623;4605277
+2020;Frankreich;WA86;Schienenfahrzeuge;41482,8;148149;167327;8973,0;63643;72651
+2020;Frankreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1050249,9;13240616;15183868;836466,3;8957644;10288627
+2020;Frankreich;WA88;Luftfahrzeuge, Raumfahrzeuge;11584,0;5585594;6313903;9872,1;3866461;4400640
+2020;Frankreich;WA89;Wasserfahrzeuge;1273,5;30672;34519;2088,1;49339;56477
+2020;Frankreich;WA90;Optische, photografische usw. Erzeugnisse;34776,4;3678321;4209114;19824,2;1553740;1773631
+2020;Frankreich;WA98;Vollständige Fabrikationsanlagen;17,8;282;332;0,8;6;7
+2020;Italien;WA27;Mineralische Brennstoffe usw.;420715,4;181666;205759;603831,7;305584;349317
+2020;Italien;WA28;Anorganische chemische Erzeugnisse;465336,9;347492;396208;126710,1;159286;180901
+2020;Italien;WA29;Organische chemische Erzeugnisse;801197,2;1413842;1609004;161915,9;1090176;1241694
+2020;Italien;WA30;Pharmazeutische Erzeugnisse;45581,5;4924173;5608678;29981,8;3003832;3424380
+2020;Italien;WA31;Düngemittel;158954,3;57101;64758;13714,3;10853;12295
+2020;Italien;WA33;Etherische Öle, Riech-, Schönheitsmittel;52848,5;403733;460226;79262,5;538070;615146
+2020;Italien;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4018,0;16848;19274;19,2;177;201
+2020;Italien;WA37;Photochemische Erzeugnisse;6914,1;79394;90693;416,4;7581;8630
+2020;Italien;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;381240,9;1289524;1473109;278292,4;634909;722650
+2020;Italien;WA72;Eisen und Stahl;3328095,7;1652795;1884085;2442767,1;2036725;2323209
+2020;Italien;WA73;Waren aus Eisen oder Stahl;273233,3;992165;1133229;1169584,3;2379817;2718547
+2020;Italien;WA83;Verschiedene Waren aus unedlen Metallen;31064,9;304238;347678;51154,0;365971;418593
+2020;Italien;WA84;Maschinen, Apparate, mechanische Geräte;473206,8;9033000;10338719;740968,9;7735681;8843564
+2020;Italien;WA85;Elektrotechnische Erzeugnisse;183413,4;6232960;7134140;339007,5;3528095;4040172
+2020;Italien;WA86;Schienenfahrzeuge;11020,1;140705;159903;13213,0;93684;106820
+2020;Italien;WA87;Kraftfahrzeuge, Landfahrzeuge;655490,6;8955316;10270182;752167,3;6533115;7506406
+2020;Italien;WA88;Luftfahrzeuge, Raumfahrzeuge;757,4;409809;460379;287,1;204134;235182
+2020;Italien;WA89;Wasserfahrzeuge;7839,0;40153;45634;1235,6;38308;43805
+2020;Italien;WA90;Optische, photografische usw. Erzeugnisse;21924,7;2984615;3412668;18655,1;957258;1093657
+2020;Italien;WA98;Vollständige Fabrikationsanlagen;33,0;292;324;0;0;0
+2020;Niederlande;WA27;Mineralische Brennstoffe usw.;45371469,1;8957145;10255648;84757652,2;20563095;23479027
+2020;Niederlande;WA28;Anorganische chemische Erzeugnisse;2667567,5;514247;587073;1707738,9;515769;590442
+2020;Niederlande;WA29;Organische chemische Erzeugnisse;2363593,3;1920992;2190351;2816419,5;2502019;2857382
+2020;Niederlande;WA30;Pharmazeutische Erzeugnisse;40821,8;8388501;9563442;15649,0;8377628;9520270
+2020;Niederlande;WA31;Düngemittel;278274,5;64478;73251;1001109,3;192098;217737
+2020;Niederlande;WA33;Etherische Öle, Riech-, Schönheitsmittel;64880,6;554008;632650;42105,5;363103;416402
+2020;Niederlande;WA36;Sprengstoffe, pyrotechnische Artikel usw.;6603,2;23534;27122;1418,7;3029;3491
+2020;Niederlande;WA37;Photochemische Erzeugnisse;4718,1;53160;60972;12148,9;92531;105706
+2020;Niederlande;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1723367,4;2176801;2495451;1602272,5;1843368;2105279
+2020;Niederlande;WA72;Eisen und Stahl;3723216,4;1756212;2005822;2546210,9;1604646;1828107
+2020;Niederlande;WA73;Waren aus Eisen oder Stahl;713892,8;1833720;2086036;653998,4;1247381;1421852
+2020;Niederlande;WA83;Verschiedene Waren aus unedlen Metallen;39235,6;365374;416906;25484,7;144361;165017
+2020;Niederlande;WA84;Maschinen, Apparate, mechanische Geräte;630952,0;9581718;10938567;298783,6;6005750;6856767
+2020;Niederlande;WA85;Elektrotechnische Erzeugnisse;254159,0;6384450;7291827;146681,1;4439040;5090728
+2020;Niederlande;WA86;Schienenfahrzeuge;7295,6;56989;64819;13877,1;49806;56479
+2020;Niederlande;WA87;Kraftfahrzeuge, Landfahrzeuge;621261,4;7103887;8175761;324114,8;3409532;3908007
+2020;Niederlande;WA88;Luftfahrzeuge, Raumfahrzeuge;218,8;153541;171615;765,0;190177;211734
+2020;Niederlande;WA89;Wasserfahrzeuge;30243,9;249458;281169;55750,4;152702;173121
+2020;Niederlande;WA90;Optische, photografische usw. Erzeugnisse;21948,5;4366810;4989626;9488,0;1317958;1509691
+2020;Niederlande;WA98;Vollständige Fabrikationsanlagen;0;0;0;1,9;32;36
+2020;Österreich;WA27;Mineralische Brennstoffe usw.;8875337,9;3395038;3867707;5855153,5;1513765;1722008
+2020;Österreich;WA28;Anorganische chemische Erzeugnisse;893895,0;317106;361336;313145,9;177035;201453
+2020;Österreich;WA29;Organische chemische Erzeugnisse;234488,4;382839;436697;143519,2;185340;211449
+2020;Österreich;WA30;Pharmazeutische Erzeugnisse;32964,2;2280347;2602942;16991,9;1375690;1567359
+2020;Österreich;WA31;Düngemittel;226292,0;75213;85273;340509,8;68176;77885
+2020;Österreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;51659,9;584522;668358;9006,7;152634;174664
+2020;Österreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;2569,9;9071;10363;5105,9;8938;10169
+2020;Österreich;WA37;Photochemische Erzeugnisse;1889,4;25175;28763;62,4;1164;1336
+2020;Österreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;615878,4;817688;935410;393142,5;372470;423916
+2020;Österreich;WA72;Eisen und Stahl;1396404,3;1062355;1210497;2109484,4;1870397;2135997
+2020;Österreich;WA73;Waren aus Eisen oder Stahl;553151,3;1825486;2083274;602132,5;1207970;1379379
+2020;Österreich;WA83;Verschiedene Waren aus unedlen Metallen;68124,1;517018;590970;103579,7;520021;595244
+2020;Österreich;WA84;Maschinen, Apparate, mechanische Geräte;543804,7;9342867;10672296;487688,7;6888312;7882096
+2020;Österreich;WA85;Elektrotechnische Erzeugnisse;185583,1;5837162;6677506;165954,1;3451064;3946589
+2020;Österreich;WA86;Schienenfahrzeuge;38171,6;485227;561229;33281,8;538975;621515
+2020;Österreich;WA87;Kraftfahrzeuge, Landfahrzeuge;526095,3;6069765;6950640;518398,2;4674329;5354705
+2020;Österreich;WA88;Luftfahrzeuge, Raumfahrzeuge;749,7;165291;188176;1767,4;343069;397398
+2020;Österreich;WA89;Wasserfahrzeuge;351,8;12556;14343;269,4;10983;12614
+2020;Österreich;WA90;Optische, photografische usw. Erzeugnisse;16198,8;1792921;2048862;6740,5;844680;966835
+2020;Österreich;WA98;Vollständige Fabrikationsanlagen;0;0;0;1,0;838;987
+2020;Polen;WA27;Mineralische Brennstoffe usw.;1862491,3;1361614;1556585;2147609,2;556813;633271
+2020;Polen;WA28;Anorganische chemische Erzeugnisse;477504,8;1310457;1511416;506904,7;173976;198327
+2020;Polen;WA29;Organische chemische Erzeugnisse;540560,6;644356;734870;679497,5;399495;455096
+2020;Polen;WA30;Pharmazeutische Erzeugnisse;43855,1;1444920;1648682;25282,5;450862;515490
+2020;Polen;WA31;Düngemittel;858341,7;164940;187715;591032,8;130419;148188
+2020;Polen;WA33;Etherische Öle, Riech-, Schönheitsmittel;85006,4;664918;760231;83649,1;557643;638856
+2020;Polen;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1557,1;4344;4973;10295,6;12135;13864
+2020;Polen;WA37;Photochemische Erzeugnisse;5493,0;56085;64066;100,4;9325;10713
+2020;Polen;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;600897,9;1421825;1625384;279919,6;476613;547544
+2020;Polen;WA72;Eisen und Stahl;2821733,4;1860922;2129912;1616568,4;801639;911797
+2020;Polen;WA73;Waren aus Eisen oder Stahl;451959,1;1521883;1738373;929156,0;1988093;2270188
+2020;Polen;WA83;Verschiedene Waren aus unedlen Metallen;107805,8;612365;700828;66610,1;411567;470907
+2020;Polen;WA84;Maschinen, Apparate, mechanische Geräte;640162,1;10469585;11968541;849800,1;7695645;8822427
+2020;Polen;WA85;Elektrotechnische Erzeugnisse;306935,3;6795952;7792022;488681,7;8001679;9197407
+2020;Polen;WA86;Schienenfahrzeuge;33209,4;269160;306148;99141,2;450138;517233
+2020;Polen;WA87;Kraftfahrzeuge, Landfahrzeuge;885045,0;6223624;7138830;926897,0;7114863;8157700
+2020;Polen;WA88;Luftfahrzeuge, Raumfahrzeuge;481,2;97823;112531;185,5;17785;19999
+2020;Polen;WA89;Wasserfahrzeuge;1050,6;12803;14354;6288,3;59316;67574
+2020;Polen;WA90;Optische, photografische usw. Erzeugnisse;26409,6;2010463;2306000;20899,5;959614;1097338
+2020;Polen;WA98;Vollständige Fabrikationsanlagen;2534,0;92571;104385;0;0;0
+2020;Vereinigtes Königreich;WA27;Mineralische Brennstoffe usw.;1055331,2;373832;426887;10600241,1;2961373;3346771
+2020;Vereinigtes Königreich;WA28;Anorganische chemische Erzeugnisse;500473,2;494497;558917;255032,1;188923;215635
+2020;Vereinigtes Königreich;WA29;Organische chemische Erzeugnisse;403069,7;980174;1120766;746647,1;1149703;1294932
+2020;Vereinigtes Königreich;WA30;Pharmazeutische Erzeugnisse;37058,4;3385006;3865116;11651,4;2549923;2911673
+2020;Vereinigtes Königreich;WA31;Düngemittel;416105,9;75777;86464;119630,8;23157;26575
+2020;Vereinigtes Königreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;82096,4;618729;706853;46722,6;372519;426362
+2020;Vereinigtes Königreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;514,6;15477;17506;2697,3;6293;7263
+2020;Vereinigtes Königreich;WA37;Photochemische Erzeugnisse;4731,5;51302;58706;391,2;12082;13774
+2020;Vereinigtes Königreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;358589,5;956633;1094711;106210,1;1197004;1370854
+2020;Vereinigtes Königreich;WA72;Eisen und Stahl;527865,0;441852;502677;401596,9;330133;376119
+2020;Vereinigtes Königreich;WA73;Waren aus Eisen oder Stahl;392689,0;1115805;1277950;99752,3;455282;527259
+2020;Vereinigtes Königreich;WA83;Verschiedene Waren aus unedlen Metallen;34358,6;344808;395004;7935,0;81246;92817
+2020;Vereinigtes Königreich;WA84;Maschinen, Apparate, mechanische Geräte;464282,3;9960787;11400584;222111,8;4052890;4627374
+2020;Vereinigtes Königreich;WA85;Elektrotechnische Erzeugnisse;139134,9;5064454;5798038;56844,9;2931662;3348234
+2020;Vereinigtes Königreich;WA86;Schienenfahrzeuge;14779,4;190610;217340;1634,3;20382;23087
+2020;Vereinigtes Königreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1090433,7;15473546;17743736;309795,4;3796043;4358235
+2020;Vereinigtes Königreich;WA88;Luftfahrzeuge, Raumfahrzeuge;2734,3;1259033;1428309;6367,2;2738986;3101555
+2020;Vereinigtes Königreich;WA89;Wasserfahrzeuge;305129,3;1477736;1670797;36143,0;40697;46483
+2020;Vereinigtes Königreich;WA90;Optische, photografische usw. Erzeugnisse;22069,1;2682477;3066347;14207,7;1427880;1633160
+2020;Vereinigtes Königreich;WA98;Vollständige Fabrikationsanlagen;6265,5;62611;70125;0;0;0
+2020;Schweiz;WA27;Mineralische Brennstoffe usw.;3597129,7;1975320;2248983;316526,6;438447;496584
+2020;Schweiz;WA28;Anorganische chemische Erzeugnisse;278219,2;283835;322459;112826,1;45375;51732
+2020;Schweiz;WA29;Organische chemische Erzeugnisse;386132,3;1101516;1252704;105203,7;4216258;4796972
+2020;Schweiz;WA30;Pharmazeutische Erzeugnisse;28462,0;8220159;9356352;27149,0;8293936;9435986
+2020;Schweiz;WA31;Düngemittel;150325,4;45926;52307;10535,4;6240;7044
+2020;Schweiz;WA33;Etherische Öle, Riech-, Schönheitsmittel;34797,1;501401;573168;28163,0;601796;685194
+2020;Schweiz;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1859,2;21242;24192;1030,8;17064;19435
+2020;Schweiz;WA37;Photochemische Erzeugnisse;1415,8;24643;28175;38,1;2650;3006
+2020;Schweiz;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1168349,2;765285;874084;123038,5;379367;431623
+2020;Schweiz;WA72;Eisen und Stahl;1036193,7;729867;830952;651603,5;367315;419714
+2020;Schweiz;WA73;Waren aus Eisen oder Stahl;322513,3;1302765;1484572;166030,4;786966;898423
+2020;Schweiz;WA83;Verschiedene Waren aus unedlen Metallen;17492,9;246062;280599;7011,6;123491;140993
+2020;Schweiz;WA84;Maschinen, Apparate, mechanische Geräte;275150,7;6456505;7359478;160586,2;4970168;5679975
+2020;Schweiz;WA85;Elektrotechnische Erzeugnisse;101025,0;3842779;4386708;93069,1;3038804;3467653
+2020;Schweiz;WA86;Schienenfahrzeuge;32337,8;392836;451874;26055,7;485143;548708
+2020;Schweiz;WA87;Kraftfahrzeuge, Landfahrzeuge;242879,0;4641424;5325998;112519,6;643578;737079
+2020;Schweiz;WA88;Luftfahrzeuge, Raumfahrzeuge;782,9;566583;647705;547,0;202891;236133
+2020;Schweiz;WA89;Wasserfahrzeuge;1790,4;26107;29395;872,6;11980;13826
+2020;Schweiz;WA90;Optische, photografische usw. Erzeugnisse;14516,5;2397143;2736777;17711,6;3156048;3607714
+2020;Schweiz;WA98;Vollständige Fabrikationsanlagen;0;0;0;0;0;0
+2020;Vereinigte Staaten von Amerika;WA27;Mineralische Brennstoffe usw.;55862,4;112079;127703;18040824,3;4088983;4683261
+2020;Vereinigte Staaten von Amerika;WA28;Anorganische chemische Erzeugnisse;503999,6;852866;971576;102908,2;472657;539868
+2020;Vereinigte Staaten von Amerika;WA29;Organische chemische Erzeugnisse;470075,6;2483944;2824124;710397,2;2310602;2650885
+2020;Vereinigte Staaten von Amerika;WA30;Pharmazeutische Erzeugnisse;39038,7;15568920;17783473;19102,0;9128190;10451570
+2020;Vereinigte Staaten von Amerika;WA31;Düngemittel;158615,3;53017;61444;1937,7;2851;3260
+2020;Vereinigte Staaten von Amerika;WA33;Etherische Öle, Riech-, Schönheitsmittel;20730,5;349364;399537;28685,0;428542;489294
+2020;Vereinigte Staaten von Amerika;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1176,4;58048;66502;318,1;6089;6949
+2020;Vereinigte Staaten von Amerika;WA37;Photochemische Erzeugnisse;8785,6;171416;195140;3922,5;101472;115673
+2020;Vereinigte Staaten von Amerika;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;355471,1;1769484;2014416;120192,2;2400546;2745036
+2020;Vereinigte Staaten von Amerika;WA72;Eisen und Stahl;499657,7;578578;659204;38568,9;112590;128226
+2020;Vereinigte Staaten von Amerika;WA73;Waren aus Eisen oder Stahl;260267,6;1444208;1647407;24027,8;467261;529667
+2020;Vereinigte Staaten von Amerika;WA83;Verschiedene Waren aus unedlen Metallen;31323,7;396316;454109;3457,1;83330;94710
+2020;Vereinigte Staaten von Amerika;WA84;Maschinen, Apparate, mechanische Geräte;851841,9;21793611;24905692;146665,6;11311240;12833679
+2020;Vereinigte Staaten von Amerika;WA85;Elektrotechnische Erzeugnisse;236366,1;9931301;11348067;48693,3;5765491;6552497
+2020;Vereinigte Staaten von Amerika;WA86;Schienenfahrzeuge;4995,2;77393;88744;3791,7;15545;17683
+2020;Vereinigte Staaten von Amerika;WA87;Kraftfahrzeuge, Landfahrzeuge;1116502,2;19335059;22261283;494698,3;7185998;8260728
+2020;Vereinigte Staaten von Amerika;WA88;Luftfahrzeuge, Raumfahrzeuge;2488,5;1171021;1327285;5394,5;2685797;3063823
+2020;Vereinigte Staaten von Amerika;WA89;Wasserfahrzeuge;5314,1;33907;38818;720,9;75223;85552
+2020;Vereinigte Staaten von Amerika;WA90;Optische, photografische usw. Erzeugnisse;38621,9;8953469;10225945;29481,6;7761414;8851836
+2020;Vereinigte Staaten von Amerika;WA98;Vollständige Fabrikationsanlagen;16682,4;266107;304429;0;0;0
+2020;China;WA27;Mineralische Brennstoffe usw.;111009,2;219874;250869;163718,2;47854;54093
+2020;China;WA28;Anorganische chemische Erzeugnisse;183888,5;761442;870842;175395,7;281585;319491
+2020;China;WA29;Organische chemische Erzeugnisse;337314,0;1247169;1417162;500026,4;2562806;2910118
+2020;China;WA30;Pharmazeutische Erzeugnisse;24118,4;3843298;4385412;30874,8;604777;700238
+2020;China;WA31;Düngemittel;57007,7;27946;31741;1186,1;1013;1159
+2020;China;WA33;Etherische Öle, Riech-, Schönheitsmittel;11427,5;233209;266711;15163,0;163745;187281
+2020;China;WA36;Sprengstoffe, pyrotechnische Artikel usw.;193,5;4591;5308;39041,7;98768;114278
+2020;China;WA37;Photochemische Erzeugnisse;860,0;19376;22131;2310,6;48864;55446
+2020;China;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;168494,6;1017944;1162700;94231,5;549173;633248
+2020;China;WA72;Eisen und Stahl;587000,2;755576;862342;206892,1;252639;288376
+2020;China;WA73;Waren aus Eisen oder Stahl;212474,0;1578842;1803457;850969,7;2504386;2857813
+2020;China;WA83;Verschiedene Waren aus unedlen Metallen;43930,1;613020;701443;164809,5;918311;1049033
+2020;China;WA84;Maschinen, Apparate, mechanische Geräte;689909,5;19645056;22476919;1710843,2;26703415;30525010
+2020;China;WA85;Elektrotechnische Erzeugnisse;217568,1;16464640;18824493;1444468,2;34988743;40108131
+2020;China;WA86;Schienenfahrzeuge;25898,9;181097;204594;146279,5;169544;194758
+2020;China;WA87;Kraftfahrzeuge, Landfahrzeuge;1190389,4;24370931;27928811;445258,1;2565106;2936693
+2020;China;WA88;Luftfahrzeuge, Raumfahrzeuge;2892,9;3268255;3861176;540,8;99073;111313
+2020;China;WA89;Wasserfahrzeuge;133837,4;77826;91916;179414,3;468595;530706
+2020;China;WA90;Optische, photografische usw. Erzeugnisse;47485,0;8585598;9828430;109822,3;3925195;4493343
+2020;China;WA98;Vollständige Fabrikationsanlagen;6176,6;183763;207337;0;0;0
+2021;Belgien (ab 1999);WA27;Mineralische Brennstoffe usw.;3782224,5;1812869;2139893;7867323,8;4620511;5434021
+2021;Belgien (ab 1999);WA28;Anorganische chemische Erzeugnisse;1394240,6;472078;557638;1420058,2;562855;665160
+2021;Belgien (ab 1999);WA29;Organische chemische Erzeugnisse;1983410,0;2639607;3113701;3121618,8;3372409;3983868
+2021;Belgien (ab 1999);WA30;Pharmazeutische Erzeugnisse;46097,3;4257046;5036203;40650,6;9300834;10982005
+2021;Belgien (ab 1999);WA31;Düngemittel;655914,0;201219;237192;707863,3;213977;252605
+2021;Belgien (ab 1999);WA33;Etherische Öle, Riech-, Schönheitsmittel;26693,1;216819;256321;37258,3;121390;143687
+2021;Belgien (ab 1999);WA36;Sprengstoffe, pyrotechnische Artikel usw.;2000,9;5199;6089;382,2;7293;8653
+2021;Belgien (ab 1999);WA37;Photochemische Erzeugnisse;3656,6;25849;30593;8039,9;66374;78471
+2021;Belgien (ab 1999);WA38;Verschiedene Erzeugnisse der Chemischen Industrie;850803,2;1540030;1812364;923859,1;1480857;1748265
+2021;Belgien (ab 1999);WA72;Eisen und Stahl;2777918,1;2351061;2782121;3456544,5;3515683;4147467
+2021;Belgien (ab 1999);WA73;Waren aus Eisen oder Stahl;302493,7;932728;1104901;300664,0;585396;691528
+2021;Belgien (ab 1999);WA83;Verschiedene Waren aus unedlen Metallen;27517,6;258867;306711;2876,6;45648;54057
+2021;Belgien (ab 1999);WA84;Maschinen, Apparate, mechanische Geräte;342576,2;5803729;6863437;159824,6;2061573;2436608
+2021;Belgien (ab 1999);WA85;Elektrotechnische Erzeugnisse;112976,7;2938996;3476828;46328,5;805410;953040
+2021;Belgien (ab 1999);WA86;Schienenfahrzeuge;3981,2;26872;31779;2266,2;17337;20423
+2021;Belgien (ab 1999);WA87;Kraftfahrzeuge, Landfahrzeuge;552038,2;6536132;7739781;349923,4;3489087;4127028
+2021;Belgien (ab 1999);WA88;Luftfahrzeuge, Raumfahrzeuge;627,2;44386;52349;572,8;135945;160562
+2021;Belgien (ab 1999);WA89;Wasserfahrzeuge;3754,5;10506;12658;40252,2;56872;67075
+2021;Belgien (ab 1999);WA90;Optische, photografische usw. Erzeugnisse;12570,1;1380389;1632638;5947,4;397495;470574
+2021;Belgien (ab 1999);WA98;Vollständige Fabrikationsanlagen;0;0;0;0;0;0
+2021;Frankreich;WA27;Mineralische Brennstoffe usw.;3147141,1;1788867;2101830;1010526,2;1412397;1665390
+2021;Frankreich;WA28;Anorganische chemische Erzeugnisse;1246569,7;1007022;1192458;963011,3;807374;953060
+2021;Frankreich;WA29;Organische chemische Erzeugnisse;1156801,3;2361831;2791789;635653,6;1266276;1497985
+2021;Frankreich;WA30;Pharmazeutische Erzeugnisse;74244,2;6027965;7135374;74180,9;3289478;3884195
+2021;Frankreich;WA31;Düngemittel;650382,4;173587;205141;137503,2;44535;52397
+2021;Frankreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;73357,1;719826;851004;113517,2;1788250;2111145
+2021;Frankreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;6096,7;16906;20013;302,3;5815;6943
+2021;Frankreich;WA37;Photochemische Erzeugnisse;5658,6;90399;106703;3285,3;93157;111489
+2021;Frankreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;761510,5;1970229;2332538;627047,7;1565561;1856477
+2021;Frankreich;WA72;Eisen und Stahl;3509730,6;2702646;3196626;3595553,7;3635424;4295351
+2021;Frankreich;WA73;Waren aus Eisen oder Stahl;854287,2;2465794;2920062;325284,1;1037083;1227508
+2021;Frankreich;WA83;Verschiedene Waren aus unedlen Metallen;61512,2;628473;744946;36301,3;207337;245547
+2021;Frankreich;WA84;Maschinen, Apparate, mechanische Geräte;834095,5;16301512;19293680;532467,7;6835128;8087226
+2021;Frankreich;WA85;Elektrotechnische Erzeugnisse;325808,3;8680861;10272693;267793,0;4995547;5900913
+2021;Frankreich;WA86;Schienenfahrzeuge;15313,3;140831;167625;7660,0;89710;105928
+2021;Frankreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1112513,0;14582152;17263155;858319,0;8979500;10626089
+2021;Frankreich;WA88;Luftfahrzeuge, Raumfahrzeuge;8558,0;3277639;3865808;7355,8;2012350;2379083
+2021;Frankreich;WA89;Wasserfahrzeuge;109868,8;184291;216339;2183,0;62344;73701
+2021;Frankreich;WA90;Optische, photografische usw. Erzeugnisse;37053,4;4059410;4802495;19413,4;1624762;1919777
+2021;Frankreich;WA98;Vollständige Fabrikationsanlagen;31,9;332;398;0;0;0
+2021;Italien;WA27;Mineralische Brennstoffe usw.;514059,9;243553;288198;413817,8;270711;320583
+2021;Italien;WA28;Anorganische chemische Erzeugnisse;547082,2;445983;527476;155435,6;162575;192446
+2021;Italien;WA29;Organische chemische Erzeugnisse;905780,5;2005368;2370294;190888,8;1219466;1439231
+2021;Italien;WA30;Pharmazeutische Erzeugnisse;41347,4;5982153;7080910;26948,6;3315282;3904996
+2021;Italien;WA31;Düngemittel;175198,1;74068;87350;13794,0;12838;15313
+2021;Italien;WA33;Etherische Öle, Riech-, Schönheitsmittel;45437,1;423948;501574;76961,4;609378;720397
+2021;Italien;WA36;Sprengstoffe, pyrotechnische Artikel usw.;3678,2;17095;20191;33,0;237;281
+2021;Italien;WA37;Photochemische Erzeugnisse;8054,6;91156;107865;411,1;7653;9032
+2021;Italien;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;452276,0;1496719;1771898;259336,1;703766;833298
+2021;Italien;WA72;Eisen und Stahl;3889435,7;2912365;3440933;3313859,3;3906554;4610219
+2021;Italien;WA73;Waren aus Eisen oder Stahl;331462,4;1237274;1464428;1349526,4;3181664;3762636
+2021;Italien;WA83;Verschiedene Waren aus unedlen Metallen;39439,1;393533;466291;58539,3;437324;517428
+2021;Italien;WA84;Maschinen, Apparate, mechanische Geräte;572144,5;11071868;13091917;845924,3;8827089;10443428
+2021;Italien;WA85;Elektrotechnische Erzeugnisse;237601,2;7824115;9247264;395019,0;4387116;5187946
+2021;Italien;WA86;Schienenfahrzeuge;13401,8;209321;248086;10943,5;94728;112114
+2021;Italien;WA87;Kraftfahrzeuge, Landfahrzeuge;736215,4;10535819;12479797;842054,3;7689063;9102722
+2021;Italien;WA88;Luftfahrzeuge, Raumfahrzeuge;333,0;170261;200052;305,3;189175;224099
+2021;Italien;WA89;Wasserfahrzeuge;71396,7;973318;1130124;1507,6;56640;65927
+2021;Italien;WA90;Optische, photografische usw. Erzeugnisse;23413,0;3336465;3949264;18737,9;1150246;1360835
+2021;Italien;WA98;Vollständige Fabrikationsanlagen;173,3;4508;5184;0;0;0
+2021;Niederlande;WA27;Mineralische Brennstoffe usw.;40257007,6;13224795;15585794;81989200,9;31273301;36809354
+2021;Niederlande;WA28;Anorganische chemische Erzeugnisse;3213951,4;607396;718122;2078601,0;749380;883682
+2021;Niederlande;WA29;Organische chemische Erzeugnisse;2164104,7;2458487;2907777;2922700,4;3345651;3954280
+2021;Niederlande;WA30;Pharmazeutische Erzeugnisse;39179,4;8096451;9576730;21442,1;7559503;8926590
+2021;Niederlande;WA31;Düngemittel;329779,7;87652;103723;854410,6;222229;261515
+2021;Niederlande;WA33;Etherische Öle, Riech-, Schönheitsmittel;66607,6;629396;743762;42261,1;412098;486746
+2021;Niederlande;WA36;Sprengstoffe, pyrotechnische Artikel usw.;4014,7;15286;17854;1727,0;3055;3598
+2021;Niederlande;WA37;Photochemische Erzeugnisse;3907,8;69291;81636;11163,9;87073;102893
+2021;Niederlande;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1610767,8;2798774;3306088;1425287,8;2262690;2666638
+2021;Niederlande;WA72;Eisen und Stahl;3787397,7;2508240;2965104;3257612,4;2699379;3187150
+2021;Niederlande;WA73;Waren aus Eisen oder Stahl;844250,6;2238637;2635661;723760,1;1549285;1831557
+2021;Niederlande;WA83;Verschiedene Waren aus unedlen Metallen;48956,9;428238;506989;26141,6;156449;185149
+2021;Niederlande;WA84;Maschinen, Apparate, mechanische Geräte;725760,7;11068584;13091733;321479,7;5602633;6629641
+2021;Niederlande;WA85;Elektrotechnische Erzeugnisse;268667,9;7320787;8653596;168193,9;5059015;5974716
+2021;Niederlande;WA86;Schienenfahrzeuge;5387,0;63113;74708;12498,3;47908;56705
+2021;Niederlande;WA87;Kraftfahrzeuge, Landfahrzeuge;696396,5;8633423;10211140;331413,4;3556722;4204187
+2021;Niederlande;WA88;Luftfahrzeuge, Raumfahrzeuge;339,3;72219;85966;206,9;35573;42042
+2021;Niederlande;WA89;Wasserfahrzeuge;96014,4;222809;263618;116790,0;345414;404840
+2021;Niederlande;WA90;Optische, photografische usw. Erzeugnisse;23780,1;5294034;6257900;9174,7;1565203;1851244
+2021;Niederlande;WA98;Vollständige Fabrikationsanlagen;0;0;0;0,0;1;1
+2021;Österreich;WA27;Mineralische Brennstoffe usw.;8100971,4;5383945;6320058;5113183,4;2791907;3277340
+2021;Österreich;WA28;Anorganische chemische Erzeugnisse;927163,1;339652;401342;323461,7;222937;263752
+2021;Österreich;WA29;Organische chemische Erzeugnisse;234318,3;511154;604490;185753,1;240760;284274
+2021;Österreich;WA30;Pharmazeutische Erzeugnisse;31761,3;2411886;2855206;16185,3;1761714;2083061
+2021;Österreich;WA31;Düngemittel;250226,2;101961;120583;361409,6;96204;113416
+2021;Österreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;47927,3;618853;730724;7617,1;164358;194007
+2021;Österreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;2821,1;8706;10276;6087,3;10883;12841
+2021;Österreich;WA37;Photochemische Erzeugnisse;1988,3;26641;31507;21,8;1155;1365
+2021;Österreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;606665,7;973090;1150725;286638,4;411005;485985
+2021;Österreich;WA72;Eisen und Stahl;1642751,2;1746967;2063484;2347301,7;2430354;2871588
+2021;Österreich;WA73;Waren aus Eisen oder Stahl;641087,1;2217539;2624301;728334,0;1508979;1784311
+2021;Österreich;WA83;Verschiedene Waren aus unedlen Metallen;67900,0;553553;655797;114168,4;609693;721366
+2021;Österreich;WA84;Maschinen, Apparate, mechanische Geräte;625766,4;10529579;12458830;522073,9;7632111;9029299
+2021;Österreich;WA85;Elektrotechnische Erzeugnisse;231548,9;6923975;8186368;182432,0;3971918;4698236
+2021;Österreich;WA86;Schienenfahrzeuge;35332,7;399893;473711;30055,8;543649;641660
+2021;Österreich;WA87;Kraftfahrzeuge, Landfahrzeuge;620918,4;7200009;8529229;541825,5;5082273;6022153
+2021;Österreich;WA88;Luftfahrzeuge, Raumfahrzeuge;471,3;165374;194551;872,5;446127;524318
+2021;Österreich;WA89;Wasserfahrzeuge;428,9;9543;11317;274,5;10490;12402
+2021;Österreich;WA90;Optische, photografische usw. Erzeugnisse;17204,1;1945364;2300342;7126,8;957643;1131550
+2021;Österreich;WA98;Vollständige Fabrikationsanlagen;142,0;5988;7173;0;0;0
+2021;Polen;WA27;Mineralische Brennstoffe usw.;2350158,7;2116420;2489579;2314945,4;770478;908193
+2021;Polen;WA28;Anorganische chemische Erzeugnisse;598783,5;1755963;2086322;531710,9;191261;225570
+2021;Polen;WA29;Organische chemische Erzeugnisse;677458,7;985548;1165148;688689,4;576189;681453
+2021;Polen;WA30;Pharmazeutische Erzeugnisse;45418,8;2364591;2795003;25845,8;400273;473416
+2021;Polen;WA31;Düngemittel;746284,0;216125;254245;557718,2;172146;203109
+2021;Polen;WA33;Etherische Öle, Riech-, Schönheitsmittel;83584,2;748415;884119;87015,8;640753;756520
+2021;Polen;WA36;Sprengstoffe, pyrotechnische Artikel usw.;2003,1;7131;8454;9540,9;12251;14475
+2021;Polen;WA37;Photochemische Erzeugnisse;5154,6;54596;64528;86,0;6826;8056
+2021;Polen;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;609780,9;1781172;2107093;283682,6;931470;1101411
+2021;Polen;WA72;Eisen und Stahl;2939141,5;2689044;3180709;1800809,3;1280824;1512104
+2021;Polen;WA73;Waren aus Eisen oder Stahl;581749,8;1935486;2287151;1107968,1;2622593;3098799
+2021;Polen;WA83;Verschiedene Waren aus unedlen Metallen;125104,4;747112;884265;74359,9;507866;601042
+2021;Polen;WA84;Maschinen, Apparate, mechanische Geräte;704525,4;11448081;13541297;952030,2;8796436;10407341
+2021;Polen;WA85;Elektrotechnische Erzeugnisse;321946,4;7580762;8961815;584434,3;10598714;12532134
+2021;Polen;WA86;Schienenfahrzeuge;30651,0;271315;319977;98481,2;449321;530940
+2021;Polen;WA87;Kraftfahrzeuge, Landfahrzeuge;1122588,9;8012209;9480870;966366,7;7324648;8667637
+2021;Polen;WA88;Luftfahrzeuge, Raumfahrzeuge;701,9;132343;155680;1192,1;19765;23315
+2021;Polen;WA89;Wasserfahrzeuge;7727,7;15054;17960;10303,0;89661;105760
+2021;Polen;WA90;Optische, photografische usw. Erzeugnisse;27425,7;2113829;2499038;22351,9;1046794;1237965
+2021;Polen;WA98;Vollständige Fabrikationsanlagen;24,0;2468;2961;0,0;1;2
+2021;Vereinigtes Königreich;WA27;Mineralische Brennstoffe usw.;888233,9;463489;546618;6394631,8;2753754;3247584
+2021;Vereinigtes Königreich;WA28;Anorganische chemische Erzeugnisse;483303,1;690310;818366;27831,6;289984;343645
+2021;Vereinigtes Königreich;WA29;Organische chemische Erzeugnisse;411066,3;966724;1141944;362910,7;567963;672128
+2021;Vereinigtes Königreich;WA30;Pharmazeutische Erzeugnisse;30432,0;3492454;4121758;5652,4;1959002;2309578
+2021;Vereinigtes Königreich;WA31;Düngemittel;302672,3;87303;102111;121779,9;24962;29689
+2021;Vereinigtes Königreich;WA33;Etherische Öle, Riech-, Schönheitsmittel;65344,2;535160;631607;41217,0;380628;448957
+2021;Vereinigtes Königreich;WA36;Sprengstoffe, pyrotechnische Artikel usw.;520,8;14557;17343;1963,5;10109;11920
+2021;Vereinigtes Königreich;WA37;Photochemische Erzeugnisse;4854,7;44945;53202;418,3;10183;12039
+2021;Vereinigtes Königreich;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;297173,4;933948;1104882;90768,5;1196845;1423861
+2021;Vereinigtes Königreich;WA72;Eisen und Stahl;582873,8;622558;735655;216387,5;260817;307736
+2021;Vereinigtes Königreich;WA73;Waren aus Eisen oder Stahl;310358,2;1162081;1375440;254234,7;462634;548743
+2021;Vereinigtes Königreich;WA83;Verschiedene Waren aus unedlen Metallen;29695,7;348778;412945;6898,6;72130;85233
+2021;Vereinigtes Königreich;WA84;Maschinen, Apparate, mechanische Geräte;525052,2;10048927;11888006;177348,9;4074400;4815826
+2021;Vereinigtes Königreich;WA85;Elektrotechnische Erzeugnisse;197516,7;5630221;6659201;40487,5;1931996;2282194
+2021;Vereinigtes Königreich;WA86;Schienenfahrzeuge;16401,7;148367;175657;1490,6;17294;20425
+2021;Vereinigtes Königreich;WA87;Kraftfahrzeuge, Landfahrzeuge;1054148,5;15299022;18097457;324338,3;4085113;4824850
+2021;Vereinigtes Königreich;WA88;Luftfahrzeuge, Raumfahrzeuge;2207,5;893998;1065963;5138,9;2402484;2841156
+2021;Vereinigtes Königreich;WA89;Wasserfahrzeuge;27469,2;394792;467059;23437,9;56562;66453
+2021;Vereinigtes Königreich;WA90;Optische, photografische usw. Erzeugnisse;20577,4;3090743;3655799;14956,2;1630213;1925607
+2021;Vereinigtes Königreich;WA98;Vollständige Fabrikationsanlagen;35,5;758;894;0;0;0
+2021;Schweiz;WA27;Mineralische Brennstoffe usw.;3800774,7;3836606;4492433;247138,3;470014;553855
+2021;Schweiz;WA28;Anorganische chemische Erzeugnisse;267940,4;275814;326080;124225,6;60458;71550
+2021;Schweiz;WA29;Organische chemische Erzeugnisse;416938,9;1252470;1481431;131868,5;4291537;5082933
+2021;Schweiz;WA30;Pharmazeutische Erzeugnisse;27610,5;8354072;9892493;25253,0;8050107;9532447
+2021;Schweiz;WA31;Düngemittel;163577,5;62744;74068;13560,6;8564;10067
+2021;Schweiz;WA33;Etherische Öle, Riech-, Schönheitsmittel;34976,5;553715;654251;26317,7;613235;725677
+2021;Schweiz;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1888,6;22407;26563;825,0;14286;16903
+2021;Schweiz;WA37;Photochemische Erzeugnisse;1605,8;21569;25510;33,2;2837;3369
+2021;Schweiz;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;1076131,5;811605;960813;139023,9;399751;472957
+2021;Schweiz;WA72;Eisen und Stahl;1119358,9;1071358;1267721;770905,9;608765;720059
+2021;Schweiz;WA73;Waren aus Eisen oder Stahl;339491,0;1527846;1807828;192098,2;876345;1037475
+2021;Schweiz;WA83;Verschiedene Waren aus unedlen Metallen;18046,0;272663;322728;7455,8;137619;162962
+2021;Schweiz;WA84;Maschinen, Apparate, mechanische Geräte;295618,0;6761198;7997444;170837,2;5395412;6382500
+2021;Schweiz;WA85;Elektrotechnische Erzeugnisse;105946,0;4173473;4933392;99521,1;3334733;3945593
+2021;Schweiz;WA86;Schienenfahrzeuge;39677,3;431386;510820;24742,6;280879;333449
+2021;Schweiz;WA87;Kraftfahrzeuge, Landfahrzeuge;253626,9;4884814;5776181;111746,6;754576;892028
+2021;Schweiz;WA88;Luftfahrzeuge, Raumfahrzeuge;877,6;475612;554875;477,1;182850;217124
+2021;Schweiz;WA89;Wasserfahrzeuge;86171,6;123471;144858;1834,5;15727;18580
+2021;Schweiz;WA90;Optische, photografische usw. Erzeugnisse;15369,0;2556747;3022534;19308,7;3484447;4123074
+2021;Schweiz;WA98;Vollständige Fabrikationsanlagen;0;0;0;0;0;0
+2021;Vereinigte Staaten von Amerika;WA27;Mineralische Brennstoffe usw.;158753,9;196788;230730;17761859,9;5806461;6849237
+2021;Vereinigte Staaten von Amerika;WA28;Anorganische chemische Erzeugnisse;369942,4;1004831;1184663;97264,6;614971;728465
+2021;Vereinigte Staaten von Amerika;WA29;Organische chemische Erzeugnisse;552476,7;2652900;3136781;811844,9;2123582;2512345
+2021;Vereinigte Staaten von Amerika;WA30;Pharmazeutische Erzeugnisse;31776,1;17227405;20357192;18752,2;8711788;10314602
+2021;Vereinigte Staaten von Amerika;WA31;Düngemittel;215319,9;67401;79949;925,6;1835;2171
+2021;Vereinigte Staaten von Amerika;WA33;Etherische Öle, Riech-, Schönheitsmittel;27117,0;420432;496713;30874,5;469875;554629
+2021;Vereinigte Staaten von Amerika;WA36;Sprengstoffe, pyrotechnische Artikel usw.;1360,9;76222;90240;782,7;11090;13087
+2021;Vereinigte Staaten von Amerika;WA37;Photochemische Erzeugnisse;11289,4;164752;194712;4132,0;119208;141016
+2021;Vereinigte Staaten von Amerika;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;343911,5;2128977;2515873;122404,9;2306458;2725611
+2021;Vereinigte Staaten von Amerika;WA72;Eisen und Stahl;648417,8;825012;974369;79058,6;110967;131547
+2021;Vereinigte Staaten von Amerika;WA73;Waren aus Eisen oder Stahl;326990,9;1731315;2044945;25947,1;510321;603005
+2021;Vereinigte Staaten von Amerika;WA83;Verschiedene Waren aus unedlen Metallen;42645,9;526938;623388;4096,0;90081;106461
+2021;Vereinigte Staaten von Amerika;WA84;Maschinen, Apparate, mechanische Geräte;1016801,8;24783969;29297459;165845,3;11926816;14098462
+2021;Vereinigte Staaten von Amerika;WA85;Elektrotechnische Erzeugnisse;240847,5;11228179;13277905;57935,7;5945853;7022027
+2021;Vereinigte Staaten von Amerika;WA86;Schienenfahrzeuge;4814,1;90222;105806;2947,2;17921;21202
+2021;Vereinigte Staaten von Amerika;WA87;Kraftfahrzeuge, Landfahrzeuge;1303051,0;23577362;27820916;538779,8;7493198;8857203
+2021;Vereinigte Staaten von Amerika;WA88;Luftfahrzeuge, Raumfahrzeuge;2844,6;1520445;1810151;5624,6;2873902;3399200
+2021;Vereinigte Staaten von Amerika;WA89;Wasserfahrzeuge;65505,6;937936;1133921;24993,8;75709;89722
+2021;Vereinigte Staaten von Amerika;WA90;Optische, photografische usw. Erzeugnisse;42215,5;9852200;11640227;31322,4;8059920;9532832
+2021;Vereinigte Staaten von Amerika;WA98;Vollständige Fabrikationsanlagen;2797,8;65596;77455;0;0;0
+2021;China;WA27;Mineralische Brennstoffe usw.;116811,2;248347;293909;206069,6;103981;120995
+2021;China;WA28;Anorganische chemische Erzeugnisse;191929,2;1370241;1616554;225941,6;387294;456039
+2021;China;WA29;Organische chemische Erzeugnisse;266652,3;1171562;1384900;574074,1;3064582;3618972
+2021;China;WA30;Pharmazeutische Erzeugnisse;16187,9;4300379;5090883;56469,5;2430674;2875517
+2021;China;WA31;Düngemittel;34884,4;24849;29352;1394,0;2385;2828
+2021;China;WA33;Etherische Öle, Riech-, Schönheitsmittel;12154,4;311270;367496;18040,4;196540;231514
+2021;China;WA36;Sprengstoffe, pyrotechnische Artikel usw.;59,9;5461;6446;7396,1;28214;32954
+2021;China;WA37;Photochemische Erzeugnisse;871,7;19123;22593;2298,8;51060;60345
+2021;China;WA38;Verschiedene Erzeugnisse der Chemischen Industrie;185198,5;1316460;1556553;117590,7;2004474;2371455
+2021;China;WA72;Eisen und Stahl;495215,0;760687;900787;266592,9;389536;459131
+2021;China;WA73;Waren aus Eisen oder Stahl;188301,6;1546665;1831854;981954,4;3328910;3929013
+2021;China;WA83;Verschiedene Waren aus unedlen Metallen;47646,9;639623;757841;185551,5;1114199;1316105
+2021;China;WA84;Maschinen, Apparate, mechanische Geräte;725087,4;21017464;24868650;1996481,0;34284356;40501013
+2021;China;WA85;Elektrotechnische Erzeugnisse;232566,8;17787787;21043170;1770353,1;43114151;50837374
+2021;China;WA86;Schienenfahrzeuge;27758,7;155350;183829;115442,0;193531;228385
+2021;China;WA87;Kraftfahrzeuge, Landfahrzeuge;1187697,4;26671184;31567845;588067,6;4024440;4754502
+2021;China;WA88;Luftfahrzeuge, Raumfahrzeuge;3474,4;3896562;4592479;434,6;93878;110141
+2021;China;WA89;Wasserfahrzeuge;169889,3;210001;252727;293818,6;574828;677396
+2021;China;WA90;Optische, photografische usw. Erzeugnisse;50941,1;9402137;11119249;131937,8;4677160;5525594
+2021;China;WA98;Vollständige Fabrikationsanlagen;2995,7;97336;115739;0;0;0
